@@ -132,7 +132,7 @@ $: {
 
 
 function getImgSrc(fn, custom, normal) {
-  let _fn = `pokemon_icon_${fn}${normal ? '' : '_shiny'}.png`;
+  let _fn = `pokemon_icon_${fn}.png`;
   let sourcePath = 'https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/';
   if (location.hash.indexOf('#dev=') === 0) {
     return `${location.hash.split('=').pop()}${_fn}`;

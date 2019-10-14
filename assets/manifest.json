@@ -1,11 +1,11 @@
 {
-  "name": "Pokémon Shiny",
-  "short_name": "Shiny List",
+  "name": "Shadow Pokémon List",
+  "short_name": "Shadow List",
   "theme_color": "#ffffcc",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/Pokemon-shiny/",
-  "start_url": "/Pokemon-shiny/index.html",
+  "scope": "/Pokemon-shadow/",
+  "start_url": "/Pokemon-shadow/index.html",
   "icons": [
     {
       "src": "./icon.png",

@@ -3,17 +3,17 @@ const today = new Date();
 function groupByFamily(pms) {
   let pmsByFamily = pms
     .filter(pm => {
-      if (!pm.shiny_released && pm.released_date) {
-        pm.shiny_released =  new Date(pm.released_date) < today;
+      if (!pm.shadow_released && pm.released_date) {
+        pm.shadow_released =  new Date(pm.released_date) < today;
       }
-      return pm.shiny_released;
+      return pm.shadow_released;
     })
     .reduce((all, pm) => {
       if (!all[pm.family]) {
         all[pm.family] = {
           key: pm.dex,
           pms: [],
-          shiny: pm.shiny_released,
+          shadow: pm.shadow_released,
           family: pm.family,
           status: {},
         };

@@ -27,7 +27,7 @@ function selectAll() {
 }
 
 $: {
-  document.title = `✨ ${$nickname} | Pokemon Shiny Checklist`;
+  document.title = `🔥 ${$nickname} | Shadow Pokemon Checklist`;
 }
 
 $: {
@@ -95,7 +95,7 @@ let switcher = {
 
   <h1>
     <img src="./favicon.png" width="36" height="36" alt="">
-    Shiny Checklist
+    Shadow Pokemon Checklist
   </h1>
 
   <label class="db">
