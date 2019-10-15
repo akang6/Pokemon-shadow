@@ -1,27 +1,4 @@
-<script>
-import { _ } from 'svelte-i18n';
-
-function initFaceookLikeBtn() {
-  // https://developers.facebook.com/docs/plugins/like-button
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'))
-}
-
-</script>
-
-
-
-<!-- =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  =====  ===== -->
-
-
-
-
-<a class="source show-for-print" href="https://Rplus.github.io/Pokemon-shiny/" data-title="source">
+<a class="source show-for-print" href="https://akang6.github.io/Pokemon-shiny/" data-title="source">
 </a>
 
 <footer class="footer hide-for-print">
@@ -34,25 +11,12 @@ function initFaceookLikeBtn() {
       design style from: <a href="https://leekduck.com/shinylist/">Leek Duck</a>
     </li>
     <li>
-      create an issue in <a href="https://github.com/rplus/Pokemon-shiny/issues">GitHub repo</a>
+      create an issue in <a href="https://github.com/akang6/Pokemon-shadow/issues">GitHub repo</a>
     </li>
     <li>
-      <details class="fb-like-details">
-        <summary on:click|once={ initFaceookLikeBtn }>Give a 👍️ with Facebook?</summary>
-        <div class="fb-like"
-          data-href="https://rplus.github.io/Pokemon-shiny/"
-          data-layout="button_count"
-          data-action="like"
-          data-share="true">
-        </div>
-      </details>
+      forked from Rplus's <a href="https://github.com/Rplus/Pokemon-shiny/">Shiny Checklist</a>
     </li>
   </ul>
-
-  <mark class="browser-notice">
-    { $_('browser.notice') }
-  </mark>
-
 </footer>
 
 

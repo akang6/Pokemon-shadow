@@ -236,9 +236,9 @@ let switcher = {
     margin-bottom: 3rem;
     padding-top: 2rem;
     padding-bottom: 1rem;
-    background-image: linear-gradient(-230deg, #9e9e9e, #ff5722);
-    background-color: #d35fa0;
-    color: #fff;
+    #background-image: linear-gradient(90deg, #333333, #CA3A2B);
+    background-color: #333333;
+    color: #CA3A2B;
     font-family: sans-serif;
 
     h1 {
@@ -273,13 +273,13 @@ let switcher = {
     padding: 3px 1em;
     vertical-align: middle;
     border: unset;
-    color: #fff;
+    color: #CA3A2B;
     text-align: center;
     font-size: larger;
     font-weight: 900;
     background: none;
     background-color: rgba(255, 255, 255, .1);
-    box-shadow: inset 0 -.2em rgba(255, 255, 255, .5);
+    box-shadow: inset 0 -.2em rgba(202, 58, 43, .5);
     border-radius: 0;
 
     &::placeholder {
@@ -307,13 +307,13 @@ let switcher = {
     margin-left: .7em;
     margin-right: .7em;
     vertical-align: middle;
-    color: rgba(255, 255, 255, .6);
+    color: rgba(202, 58, 43, .6);
 
     .counter-number {
       display: block;
       font-size: 1.3em;
       font-weight: bolder;
-      color: #fff;
+      color: #CA3A2B;
     }
 
     + .counter-item {
