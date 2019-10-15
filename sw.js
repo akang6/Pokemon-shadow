@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "bundle.css",
-    "revision": "6ba6e8864f9b310da4562c3ea6b75281"
+    "revision": "0b0ba6adf7d39815bd7fcdb9b036a7e6"
   },
   {
     "url": "bundle.js",
-    "revision": "3a11ba920ae2b31a9369925e3589e54e"
+    "revision": "bf3fd79a785154f95c919bd737a22bfa"
   },
   {
     "url": "favicon.png",
-    "revision": "c8f26ae99b1a32a101924c83781a87a9"
+    "revision": "89b2481904eafc8ec8e90230841a0e34"
   },
   {
     "url": "html2canvas.min.js",
@@ -47,7 +47,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "93af6c81b50636436b02d8e21ef7f0e0"
+    "revision": "0d1be15d263f1f766c33801e09be6833"
   },
   {
     "url": "manifest.json",
