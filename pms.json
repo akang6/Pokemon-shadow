@@ -9,7 +9,7 @@
       "kr": "이상해씨",
       "zh": "妙蛙種子"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Bulbasaur"
   },
   {
@@ -22,7 +22,7 @@
       "kr": "이상해풀",
       "zh": "妙蛙草"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Bulbasaur"
   },
   {
@@ -35,7 +35,7 @@
       "kr": "이상해꽃",
       "zh": "妙蛙花"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Bulbasaur"
   },
   {
@@ -48,7 +48,7 @@
       "kr": "파이리",
       "zh": "小火龍"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Charmander"
   },
   {
@@ -61,7 +61,7 @@
       "kr": "리자드",
       "zh": "火恐龍"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Charmander"
   },
   {
@@ -74,7 +74,7 @@
       "kr": "리자몽",
       "zh": "噴火龍"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Charmander"
   },
   {
@@ -87,7 +87,7 @@
       "kr": "꼬부기",
       "zh": "傑尼龜"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Squirtle"
   },
   {
@@ -100,7 +100,7 @@
       "kr": "어니부기",
       "zh": "卡咪龜"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Squirtle"
   },
   {
@@ -113,7 +113,7 @@
       "kr": "거북왕",
       "zh": "水箭龜"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Squirtle"
   },
   {
@@ -127,7 +127,7 @@
       "kr": "꼬부기",
       "zh": "傑尼龜"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Squirtle_05"
   },
   {
@@ -141,7 +141,7 @@
       "zh": "卡咪龜"
     },
     "isotope": "_05",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Squirtle_05"
   },
   {
@@ -155,7 +155,7 @@
       "zh": "水箭龜"
     },
     "isotope": "_05",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Squirtle_05"
   },
   {
@@ -168,7 +168,7 @@
       "kr": "캐터피",
       "zh": "綠毛蟲"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Caterpie"
   },
   {
@@ -181,7 +181,7 @@
       "kr": "단데기",
       "zh": "鐵甲蛹"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Caterpie"
   },
   {
@@ -194,7 +194,7 @@
       "kr": "버터플",
       "zh": "巴大蝶"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Caterpie"
   },
   {
@@ -207,7 +207,8 @@
       "kr": "뿔충이",
       "zh": "獨角蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Weedle"
   },
   {
@@ -220,7 +221,8 @@
       "kr": "딱충이",
       "zh": "鐵殼蛹"
     },
-    "shiny_released": false,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Weedle"
   },
   {
@@ -233,7 +235,8 @@
       "kr": "독침붕",
       "zh": "大針蜂"
     },
-    "shiny_released": false,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Weedle"
   },
   {
@@ -246,7 +249,7 @@
       "kr": "구구",
       "zh": "波波"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pidgey"
   },
   {
@@ -259,7 +262,7 @@
       "kr": "피죤",
       "zh": "比比鳥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pidgey"
   },
   {
@@ -272,7 +275,7 @@
       "kr": "피죤투",
       "zh": "大比鳥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pidgey"
   },
   {
@@ -285,7 +288,7 @@
       "kr": "꼬렛",
       "zh": "小拉達"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Rattata"
   },
   {
@@ -298,7 +301,7 @@
       "kr": "레트라",
       "zh": "拉達"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Rattata"
   },
   {
@@ -312,7 +315,7 @@
       "zh": "小拉達"
     },
     "type": "_61",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Rattata_61"
   },
   {
@@ -326,7 +329,7 @@
       "zh": "拉達"
     },
     "type": "_61",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Rattata_61"
   },
   {
@@ -339,7 +342,7 @@
       "kr": "깨비참",
       "zh": "烈雀"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Spearow"
   },
   {
@@ -352,7 +355,7 @@
       "kr": "깨비드릴조",
       "zh": "大嘴雀"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Spearow"
   },
   {
@@ -365,7 +368,7 @@
       "kr": "아보",
       "zh": "阿柏蛇"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Ekans"
   },
   {
@@ -378,7 +381,7 @@
       "kr": "아보크",
       "zh": "阿柏怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Ekans"
   },
   {
@@ -391,7 +394,7 @@
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu"
   },
   {
@@ -404,7 +407,7 @@
       "kr": "라이츄",
       "zh": "雷丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu"
   },
   {
@@ -418,7 +421,7 @@
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_02"
   },
   {
@@ -432,7 +435,7 @@
       "zh": "雷丘"
     },
     "isotope": "_02",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_02"
   },
   {
@@ -446,7 +449,7 @@
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_03"
   },
   {
@@ -460,7 +463,7 @@
       "kr": "라이츄",
       "zh": "雷丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_03"
   },
   {
@@ -474,7 +477,7 @@
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_06"
   },
   {
@@ -488,7 +491,7 @@
       "zh": "雷丘"
     },
     "isotope": "_06",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_06"
   },
   {
@@ -502,7 +505,7 @@
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_04"
   },
   {
@@ -516,7 +519,7 @@
       "zh": "雷丘"
     },
     "isotope": "_04",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_04"
   },
   {
@@ -530,7 +533,7 @@
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_01"
   },
   {
@@ -544,7 +547,7 @@
       "kr": "라이츄",
       "zh": "雷丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_01"
   },
   {
@@ -558,7 +561,7 @@
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_07"
   },
   {
@@ -572,7 +575,7 @@
       "kr": "라이츄",
       "zh": "雷丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_07"
   },
   {
@@ -586,7 +589,7 @@
       "kr": "피카츄",
       "zh": "皮卡丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_10"
   },
   {
@@ -600,7 +603,7 @@
       "zh": "雷丘"
     },
     "type": "_61",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pikachu_61"
   },
   {
@@ -613,7 +616,7 @@
       "kr": "모래두지",
       "zh": "穿山鼠"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Sandshrew"
   },
   {
@@ -626,7 +629,7 @@
       "kr": "고지",
       "zh": "穿山王"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Sandshrew"
   },
   {
@@ -639,7 +642,7 @@
       "kr": "모래두지",
       "zh": "穿山鼠"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Sandshrew_61"
   },
@@ -653,7 +656,7 @@
       "kr": "고지",
       "zh": "穿山王"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Sandshrew_61"
   },
@@ -667,7 +670,7 @@
       "kr": "니드런♀",
       "zh": "尼多蘭"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Nidoran Female"
   },
   {
@@ -680,7 +683,7 @@
       "kr": "니드리나",
       "zh": "尼多娜"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Nidoran Female"
   },
   {
@@ -693,7 +696,7 @@
       "kr": "니드퀸",
       "zh": "尼多后"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Nidoran Female"
   },
   {
@@ -706,7 +709,7 @@
       "kr": "니드런♂",
       "zh": "尼多朗"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Nidoran Male"
   },
   {
@@ -719,7 +722,7 @@
       "kr": "니드리노",
       "zh": "尼多力諾"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Nidoran Male"
   },
   {
@@ -732,7 +735,7 @@
       "kr": "니드킹",
       "zh": "尼多王"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Nidoran Male"
   },
   {
@@ -745,7 +748,7 @@
       "kr": "삐삐",
       "zh": "皮皮"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Clefairy"
   },
   {
@@ -758,7 +761,7 @@
       "kr": "픽시",
       "zh": "皮可西"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Clefairy"
   },
   {
@@ -771,7 +774,7 @@
       "kr": "식스테일",
       "zh": "六尾"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Vulpix"
   },
   {
@@ -784,7 +787,7 @@
       "kr": "나인테일",
       "zh": "九尾"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Vulpix"
   },
   {
@@ -797,7 +800,7 @@
       "kr": "식스테일",
       "zh": "六尾"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Vulpix_61"
   },
@@ -811,7 +814,7 @@
       "kr": "나인테일",
       "zh": "九尾"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Vulpix_61"
   },
@@ -825,7 +828,7 @@
       "kr": "푸린",
       "zh": "胖丁"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Jigglypuff"
   },
   {
@@ -838,7 +841,7 @@
       "kr": "푸크린",
       "zh": "胖可丁"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Jigglypuff"
   },
   {
@@ -851,7 +854,7 @@
       "kr": "주뱃",
       "zh": "超音蝠"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Zubat"
   },
   {
@@ -864,7 +867,7 @@
       "kr": "골뱃",
       "zh": "大嘴蝠"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Zubat"
   },
   {
@@ -877,7 +880,7 @@
       "kr": "뚜벅쵸",
       "zh": "走路草"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Oddish"
   },
   {
@@ -890,7 +893,7 @@
       "kr": "냄새꼬",
       "zh": "臭臭花"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Oddish"
   },
   {
@@ -903,7 +906,7 @@
       "kr": "라플레시아",
       "zh": "霸王花"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Oddish"
   },
   {
@@ -916,7 +919,7 @@
       "kr": "파라스",
       "zh": "派拉斯"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Paras"
   },
   {
@@ -929,7 +932,7 @@
       "kr": "파라섹트",
       "zh": "派拉斯特"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Paras"
   },
   {
@@ -942,7 +945,7 @@
       "kr": "콘팡",
       "zh": "毛球"
     },
-    "shiny_released": false,
+    "shadow_released": true,
     "family": "Venonat"
   },
   {
@@ -955,7 +958,7 @@
       "kr": "도나리",
       "zh": "摩魯蛾"
     },
-    "shiny_released": false,
+    "shadow_released": true,
     "family": "Venonat"
   },
   {
@@ -968,7 +971,7 @@
       "kr": "디그다",
       "zh": "地鼠"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Diglett"
   },
   {
@@ -981,7 +984,7 @@
       "kr": "닥트리오",
       "zh": "三地鼠"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Diglett"
   },
   {
@@ -994,7 +997,7 @@
       "kr": "디그다",
       "zh": "地鼠"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Diglett_61"
   },
@@ -1008,7 +1011,7 @@
       "kr": "닥트리오",
       "zh": "三地鼠"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Diglett_61"
   },
@@ -1022,7 +1025,7 @@
       "kr": "나옹",
       "zh": "喵喵"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Meowth"
   },
   {
@@ -1035,7 +1038,7 @@
       "kr": "페르시온",
       "zh": "貓老大"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Meowth"
   },
   {
@@ -1048,7 +1051,7 @@
       "kr": "나옹",
       "zh": "喵喵"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Meowth_61"
   },
@@ -1062,7 +1065,7 @@
       "kr": "페르시온",
       "zh": "貓老大"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Meowth_61"
   },
@@ -1076,7 +1079,7 @@
       "kr": "고라파덕",
       "zh": "可達鴨"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Psyduck"
   },
   {
@@ -1089,7 +1092,7 @@
       "kr": "골덕",
       "zh": "哥達鴨"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Psyduck"
   },
   {
@@ -1102,7 +1105,7 @@
       "kr": "망키",
       "zh": "猴怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Mankey"
   },
   {
@@ -1115,7 +1118,7 @@
       "kr": "성원숭",
       "zh": "火爆猴"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Mankey"
   },
   {
@@ -1128,7 +1131,7 @@
       "kr": "가디",
       "zh": "卡蒂狗"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Growlithe"
   },
   {
@@ -1141,7 +1144,7 @@
       "kr": "윈디",
       "zh": "風速狗"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Growlithe"
   },
   {
@@ -1154,7 +1157,7 @@
       "kr": "발챙이",
       "zh": "蚊香蝌蚪"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Poliwag"
   },
   {
@@ -1167,7 +1170,7 @@
       "kr": "슈륙챙이",
       "zh": "蚊香君"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Poliwag"
   },
   {
@@ -1180,7 +1183,7 @@
       "kr": "강챙이",
       "zh": "蚊香泳士"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Poliwag"
   },
   {
@@ -1193,7 +1196,7 @@
       "kr": "캐이시",
       "zh": "凱西"
     },
-    "shiny_released": false,
+    "shadow_released": true,
     "family": "Abra"
   },
   {
@@ -1206,7 +1209,7 @@
       "kr": "윤겔라",
       "zh": "勇基拉"
     },
-    "shiny_released": false,
+    "shadow_released": true,
     "family": "Abra"
   },
   {
@@ -1219,7 +1222,7 @@
       "kr": "후딘",
       "zh": "胡地"
     },
-    "shiny_released": false,
+    "shadow_released": true,
     "family": "Abra"
   },
   {
@@ -1232,7 +1235,7 @@
       "kr": "알통몬",
       "zh": "腕力"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Machop"
   },
   {
@@ -1245,7 +1248,7 @@
       "kr": "근육몬",
       "zh": "豪力"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Machop"
   },
   {
@@ -1258,7 +1261,7 @@
       "kr": "괴력몬",
       "zh": "怪力"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Machop"
   },
   {
@@ -1271,7 +1274,7 @@
       "kr": "모다피",
       "zh": "喇叭芽"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Bellsprout"
   },
   {
@@ -1284,7 +1287,7 @@
       "kr": "우츠동",
       "zh": "口呆花"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Bellsprout"
   },
   {
@@ -1297,7 +1300,7 @@
       "kr": "우츠보트",
       "zh": "大食花"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Bellsprout"
   },
   {
@@ -1310,7 +1313,7 @@
       "kr": "왕눈해",
       "zh": "瑪瑙水母"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tentacool"
   },
   {
@@ -1323,7 +1326,7 @@
       "kr": "독파리",
       "zh": "毒刺水母"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tentacool"
   },
   {
@@ -1336,7 +1339,7 @@
       "kr": "꼬마돌",
       "zh": "小拳石"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Geodude"
   },
   {
@@ -1349,7 +1352,7 @@
       "kr": "데구리",
       "zh": "隆隆石"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Geodude"
   },
   {
@@ -1362,7 +1365,7 @@
       "kr": "딱구리",
       "zh": "隆隆岩"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Geodude"
   },
   {
@@ -1375,7 +1378,7 @@
       "kr": "꼬마돌",
       "zh": "小拳石"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Geodude_61"
   },
@@ -1389,7 +1392,7 @@
       "kr": "데구리",
       "zh": "隆隆石"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Geodude_61"
   },
@@ -1403,7 +1406,7 @@
       "kr": "딱구리",
       "zh": "隆隆岩"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Geodude_61"
   },
@@ -1417,7 +1420,7 @@
       "kr": "포니타",
       "zh": "小火馬"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Ponyta"
   },
   {
@@ -1430,7 +1433,7 @@
       "kr": "날쌩마",
       "zh": "烈焰馬"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Ponyta"
   },
   {
@@ -1443,7 +1446,7 @@
       "kr": "야돈",
       "zh": "呆呆獸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Slowpoke"
   },
   {
@@ -1456,7 +1459,7 @@
       "kr": "야도란",
       "zh": "呆殼獸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Slowpoke"
   },
   {
@@ -1469,7 +1472,7 @@
       "kr": "코일",
       "zh": "小磁怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Magnemite"
   },
   {
@@ -1482,7 +1485,7 @@
       "kr": "레어코일",
       "zh": "三合一磁怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Magnemite"
   },
   {
@@ -1495,7 +1498,7 @@
       "kr": "파오리",
       "zh": "大蔥鴨"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Farfetchd"
   },
   {
@@ -1508,7 +1511,7 @@
       "kr": "두두",
       "zh": "嘟嘟"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Doduo"
   },
   {
@@ -1521,7 +1524,7 @@
       "kr": "두트리오",
       "zh": "嘟嘟利"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Doduo"
   },
   {
@@ -1534,7 +1537,7 @@
       "kr": "쥬쥬",
       "zh": "小海獅"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Seel"
   },
   {
@@ -1547,7 +1550,7 @@
       "kr": "쥬레곤",
       "zh": "白海獅"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Seel"
   },
   {
@@ -1560,7 +1563,7 @@
       "kr": "질퍽이",
       "zh": "臭泥"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Grimer"
   },
   {
@@ -1573,7 +1576,7 @@
       "kr": "질뻐기",
       "zh": "臭臭泥"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Grimer"
   },
   {
@@ -1586,7 +1589,7 @@
       "kr": "질퍽이",
       "zh": "臭泥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Grimer_61"
   },
@@ -1600,7 +1603,7 @@
       "kr": "질뻐기",
       "zh": "臭臭泥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "type": "_61",
     "family": "Grimer_61"
   },
@@ -1614,7 +1617,7 @@
       "kr": "셀러",
       "zh": "大舌貝"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Shellder"
   },
   {
@@ -1627,7 +1630,7 @@
       "kr": "파르셀",
       "zh": "刺甲貝"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Shellder"
   },
   {
@@ -1640,7 +1643,7 @@
       "kr": "고오스",
       "zh": "鬼斯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "cachebuster": "?v1",
     "family": "Gastly"
   },
@@ -1654,7 +1657,7 @@
       "kr": "고우스트",
       "zh": "鬼斯通"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Gastly"
   },
   {
@@ -1667,7 +1670,7 @@
       "kr": "팬텀",
       "zh": "耿鬼"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Gastly"
   },
   {
@@ -1680,7 +1683,7 @@
       "kr": "롱스톤",
       "zh": "大岩蛇"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Onix"
   },
   {
@@ -1693,7 +1696,7 @@
       "kr": "슬리프",
       "zh": "催眠貘"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Drowzee"
   },
   {
@@ -1706,7 +1709,7 @@
       "kr": "슬리퍼",
       "zh": "引夢貘人"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Drowzee"
   },
   {
@@ -1719,7 +1722,7 @@
       "kr": "크랩",
       "zh": "大鉗蟹"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Krabby"
   },
   {
@@ -1732,7 +1735,7 @@
       "kr": "킹크랩",
       "zh": "巨鉗蟹"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Krabby"
   },
   {
@@ -1745,7 +1748,7 @@
       "kr": "찌리리공",
       "zh": "霹靂電球"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Voltorb"
   },
   {
@@ -1758,7 +1761,7 @@
       "kr": "붐볼",
       "zh": "頑皮雷彈"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Voltorb"
   },
   {
@@ -1771,7 +1774,7 @@
       "kr": "아라리",
       "zh": "蛋蛋"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Exeggcute"
   },
   {
@@ -1784,7 +1787,7 @@
       "kr": "나시",
       "zh": "椰蛋樹"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Exeggcute"
   },
   {
@@ -1798,7 +1801,7 @@
       "zh": "椰蛋樹"
     },
     "type": "_61",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Exeggcute"
   },
   {
@@ -1811,7 +1814,7 @@
       "kr": "탕구리",
       "zh": "卡拉卡拉"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Cubone"
   },
   {
@@ -1824,7 +1827,7 @@
       "kr": "텅구리",
       "zh": "嘎啦嘎啦"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Cubone"
   },
   {
@@ -1838,7 +1841,7 @@
       "zh": "嘎啦嘎啦"
     },
     "type": "_61",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Cubone"
   },
   {
@@ -1851,7 +1854,7 @@
       "kr": "시라소몬",
       "zh": "飛腿郎"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tyrogue"
   },
   {
@@ -1864,7 +1867,7 @@
       "kr": "홍수몬",
       "zh": "快拳郎"
     },
-    "shiny_released": false,
+    "shadow_released": true,
     "family": "Tyrogue"
   },
   {
@@ -1877,7 +1880,7 @@
       "kr": "내루미",
       "zh": "大舌頭"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Lickitung"
   },
   {
@@ -1890,7 +1893,7 @@
       "kr": "또가스",
       "zh": "瓦斯彈"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Koffing"
   },
   {
@@ -1903,7 +1906,7 @@
       "kr": "또도가스",
       "zh": "雙彈瓦斯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Koffing"
   },
   {
@@ -1916,7 +1919,7 @@
       "kr": "뿔카노",
       "zh": "獨角犀牛"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Rhyhorn"
   },
   {
@@ -1929,7 +1932,7 @@
       "kr": "코뿌리",
       "zh": "鑽角犀獸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Rhyhorn"
   },
   {
@@ -1942,7 +1945,7 @@
       "kr": "럭키",
       "zh": "吉利蛋"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chansey"
   },
   {
@@ -1955,7 +1958,7 @@
       "kr": "덩쿠리",
       "zh": "蔓藤怪"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tangela"
   },
   {
@@ -1968,7 +1971,7 @@
       "kr": "캥카",
       "zh": "袋獸"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Kangaskhan"
   },
   {
@@ -1981,7 +1984,7 @@
       "kr": "쏘드라",
       "zh": "墨海馬"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Horsea"
   },
   {
@@ -1994,7 +1997,7 @@
       "kr": "시드라",
       "zh": "海刺龍"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Horsea"
   },
   {
@@ -2007,7 +2010,7 @@
       "kr": "콘치",
       "zh": "角金魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Goldeen"
   },
   {
@@ -2020,7 +2023,7 @@
       "kr": "왕콘치",
       "zh": "金魚王"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Goldeen"
   },
   {
@@ -2033,7 +2036,7 @@
       "kr": "별가사리",
       "zh": "海星星"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Staryu"
   },
   {
@@ -2046,7 +2049,7 @@
       "kr": "아쿠스타",
       "zh": "寶石海星"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Staryu"
   },
   {
@@ -2059,7 +2062,7 @@
       "kr": "마임맨",
       "zh": "魔牆人偶"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Mr Mime"
   },
   {
@@ -2072,7 +2075,7 @@
       "kr": "스라크",
       "zh": "飛天螳螂"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Scyther"
   },
   {
@@ -2085,7 +2088,7 @@
       "kr": "루주라",
       "zh": "迷唇姐"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Jynx"
   },
   {
@@ -2098,7 +2101,8 @@
       "kr": "에레브",
       "zh": "電擊獸"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Electabuzz"
   },
   {
@@ -2111,7 +2115,8 @@
       "kr": "마그마",
       "zh": "鴨嘴火獸"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Magmar"
   },
   {
@@ -2124,7 +2129,7 @@
       "kr": "쁘사이저",
       "zh": "凱羅斯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pinsir"
   },
   {
@@ -2137,7 +2142,7 @@
       "kr": "켄타로스",
       "zh": "肯泰羅"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Tauros"
   },
   {
@@ -2150,7 +2155,7 @@
       "kr": "잉어킹",
       "zh": "鯉魚王"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Magikarp"
   },
   {
@@ -2163,7 +2168,7 @@
       "kr": "갸라도스",
       "zh": "暴鯉龍"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Magikarp"
   },
   {
@@ -2176,7 +2181,8 @@
       "kr": "라프라스",
       "zh": "拉普拉斯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Lapras"
   },
   {
@@ -2189,7 +2195,7 @@
       "kr": "메타몽",
       "zh": "百變怪"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Ditto"
   },
   {
@@ -2202,7 +2208,7 @@
       "kr": "이브이",
       "zh": "伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Eevee"
   },
   {
@@ -2215,7 +2221,7 @@
       "kr": "이브이",
       "zh": "伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "isotope": "_07",
     "family": "Eevee_07"
   },
@@ -2229,7 +2235,7 @@
       "kr": "샤미드",
       "zh": "水伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Eevee"
   },
   {
@@ -2242,7 +2248,7 @@
       "kr": "샤미드",
       "zh": "水伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "isotope": "_07",
     "family": "Eevee_07"
   },
@@ -2256,7 +2262,7 @@
       "kr": "쥬피썬더",
       "zh": "雷伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Eevee"
   },
   {
@@ -2269,7 +2275,7 @@
       "kr": "쥬피썬더",
       "zh": "雷伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "isotope": "_07",
     "family": "Eevee_07"
   },
@@ -2283,7 +2289,7 @@
       "kr": "부스터",
       "zh": "火伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Eevee"
   },
   {
@@ -2296,7 +2302,7 @@
       "kr": "부스터",
       "zh": "火伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "isotope": "_07",
     "family": "Eevee_07"
   },
@@ -2310,7 +2316,7 @@
       "kr": "폴리곤",
       "zh": "多邊獸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Porygon"
   },
   {
@@ -2323,7 +2329,7 @@
       "kr": "암나이트",
       "zh": "菊石獸"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Omanyte"
   },
   {
@@ -2336,7 +2342,7 @@
       "kr": "암스타",
       "zh": "多刺菊石獸"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Omanyte"
   },
   {
@@ -2349,7 +2355,7 @@
       "kr": "투구",
       "zh": "化石盔"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Kabuto"
   },
   {
@@ -2362,7 +2368,7 @@
       "kr": "투구푸스",
       "zh": "鐮刀盔"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Kabuto"
   },
   {
@@ -2375,7 +2381,7 @@
       "kr": "프테라",
       "zh": "化石翼龍"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Aerodactyl"
   },
   {
@@ -2388,7 +2394,7 @@
       "kr": "잠만보",
       "zh": "卡比獸"
     },
-    "shiny_released": false,
+    "shadow_released": true,
     "family": "Snorlax"
   },
   {
@@ -2401,7 +2407,7 @@
       "kr": "프리져",
       "zh": "急凍鳥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Articuno"
   },
   {
@@ -2414,7 +2420,7 @@
       "kr": "썬더",
       "zh": "閃電鳥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Zapdos"
   },
   {
@@ -2427,7 +2433,7 @@
       "kr": "파이어",
       "zh": "火焰鳥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Moltres"
   },
   {
@@ -2440,7 +2446,7 @@
       "kr": "미뇽",
       "zh": "迷你龍"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Dratini"
   },
   {
@@ -2453,7 +2459,7 @@
       "kr": "신뇽",
       "zh": "哈克龍"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Dratini"
   },
   {
@@ -2466,7 +2472,7 @@
       "kr": "망나뇽",
       "zh": "快龍"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Dratini"
   },
   {
@@ -2479,7 +2485,7 @@
       "kr": "뮤츠",
       "zh": "超夢"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Mewtwo"
   },
   {
@@ -2492,7 +2498,7 @@
       "kr": "뮤",
       "zh": "夢幻"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Mew"
   },
   {
@@ -2505,7 +2511,7 @@
       "kr": "치코리타",
       "zh": "菊草葉"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Chikorita"
   },
   {
@@ -2518,7 +2524,7 @@
       "kr": "베이리프",
       "zh": "月桂葉"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Chikorita"
   },
   {
@@ -2531,7 +2537,7 @@
       "kr": "메가니움",
       "zh": "大竺葵"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Chikorita"
   },
   {
@@ -2544,7 +2550,7 @@
       "kr": "브케인",
       "zh": "火球鼠"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Cyndaquil"
   },
   {
@@ -2557,7 +2563,7 @@
       "kr": "마그케인",
       "zh": "火岩鼠"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Cyndaquil"
   },
   {
@@ -2570,7 +2576,7 @@
       "kr": "블레이범",
       "zh": "火爆獸"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Cyndaquil"
   },
   {
@@ -2583,7 +2589,7 @@
       "kr": "리아코",
       "zh": "小鋸鱷"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Totodile"
   },
   {
@@ -2596,7 +2602,7 @@
       "kr": "엘리게이",
       "zh": "藍鱷"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Totodile"
   },
   {
@@ -2609,7 +2615,7 @@
       "kr": "장크로다일",
       "zh": "大力鱷"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Totodile"
   },
   {
@@ -2622,7 +2628,7 @@
       "kr": "꼬리선",
       "zh": "尾立"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Sentret"
   },
   {
@@ -2635,7 +2641,7 @@
       "kr": "다꼬리",
       "zh": "大尾立"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Sentret"
   },
   {
@@ -2648,7 +2654,7 @@
       "kr": "부우부",
       "zh": "咕咕"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Hoothoot"
   },
   {
@@ -2661,7 +2667,7 @@
       "kr": "야부엉",
       "zh": "貓頭夜鷹"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Hoothoot"
   },
   {
@@ -2674,7 +2680,7 @@
       "kr": "레디바",
       "zh": "芭瓢蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Ledyba"
   },
   {
@@ -2687,7 +2693,7 @@
       "kr": "레디안",
       "zh": "安瓢蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Ledyba"
   },
   {
@@ -2700,7 +2706,7 @@
       "kr": "페이검",
       "zh": "圓絲蛛"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Spinarak"
   },
   {
@@ -2713,7 +2719,7 @@
       "kr": "아리아도스",
       "zh": "阿利多斯"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Spinarak"
   },
   {
@@ -2726,7 +2732,7 @@
       "kr": "크로뱃",
       "zh": "叉字蝠"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Zubat"
   },
   {
@@ -2739,7 +2745,7 @@
       "kr": "초라기",
       "zh": "燈籠魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chinchou"
   },
   {
@@ -2752,7 +2758,7 @@
       "kr": "랜턴",
       "zh": "電燈怪"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chinchou"
   },
   {
@@ -2765,7 +2771,7 @@
       "kr": "피츄",
       "zh": "皮丘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Pikachu"
   },
@@ -2780,7 +2786,7 @@
       "zh": "皮丘"
     },
     "isotope": "_02",
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Pikachu_02"
   },
@@ -2795,7 +2801,7 @@
       "zh": "皮丘"
     },
     "isotope": "_03",
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Pikachu_03"
   },
@@ -2810,7 +2816,7 @@
       "zh": "皮丘"
     },
     "isotope": "_04",
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Pikachu_04"
   },
@@ -2825,7 +2831,7 @@
       "zh": "皮丘"
     },
     "isotope": "_01",
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Pikachu_01"
   },
@@ -2839,7 +2845,7 @@
       "kr": "삐",
       "zh": "皮寶寶"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Clefairy"
   },
@@ -2853,7 +2859,7 @@
       "kr": "푸푸린",
       "zh": "寶寶丁"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Jigglypuff"
   },
@@ -2867,7 +2873,7 @@
       "kr": "토게피",
       "zh": "波克比"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Togepi"
   },
   {
@@ -2880,7 +2886,7 @@
       "kr": "토게틱",
       "zh": "波克基古"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Togepi"
   },
   {
@@ -2893,7 +2899,7 @@
       "kr": "네이티",
       "zh": "天然雀"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Natu"
   },
   {
@@ -2906,7 +2912,7 @@
       "kr": "네이티오",
       "zh": "天然鳥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Natu"
   },
   {
@@ -2919,7 +2925,8 @@
       "kr": "메리프",
       "zh": "咩利羊"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Mareep"
   },
   {
@@ -2932,7 +2939,8 @@
       "kr": "보송송",
       "zh": "茸茸羊"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Mareep"
   },
   {
@@ -2945,7 +2953,8 @@
       "kr": "전룡",
       "zh": "電龍"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Mareep"
   },
   {
@@ -2958,7 +2967,7 @@
       "kr": "아르코",
       "zh": "美麗花"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Oddish"
   },
   {
@@ -2971,7 +2980,7 @@
       "kr": "마릴",
       "zh": "瑪力露"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Marill"
   },
   {
@@ -2984,7 +2993,7 @@
       "kr": "마릴리",
       "zh": "瑪力露麗"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Marill"
   },
   {
@@ -2997,7 +3006,7 @@
       "kr": "꼬지모",
       "zh": "樹才怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Sudowoodo"
   },
   {
@@ -3010,7 +3019,7 @@
       "kr": "왕구리",
       "zh": "蚊香蛙皇"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Poliwag"
   },
   {
@@ -3023,7 +3032,7 @@
       "kr": "통통코",
       "zh": "毽子草"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Hoppip"
   },
   {
@@ -3036,7 +3045,7 @@
       "kr": "두코",
       "zh": "毽子花"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Hoppip"
   },
   {
@@ -3049,7 +3058,7 @@
       "kr": "솜솜코",
       "zh": "毽子棉"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Hoppip"
   },
   {
@@ -3062,7 +3071,7 @@
       "kr": "에이팜",
       "zh": "長尾怪手"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Aipom"
   },
   {
@@ -3075,7 +3084,7 @@
       "kr": "해너츠",
       "zh": "向日種子"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Sunkern"
   },
   {
@@ -3088,7 +3097,7 @@
       "kr": "해루미",
       "zh": "向日花怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Sunkern"
   },
   {
@@ -3101,7 +3110,7 @@
       "kr": "왕자리",
       "zh": "蜻蜻蜓"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Yanma"
   },
   {
@@ -3114,7 +3123,7 @@
       "kr": "우파",
       "zh": "烏波"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Wooper"
   },
   {
@@ -3127,7 +3136,7 @@
       "kr": "누오",
       "zh": "沼王"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Wooper"
   },
   {
@@ -3140,7 +3149,7 @@
       "kr": "에브이",
       "zh": "太陽伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Eevee"
   },
   {
@@ -3153,7 +3162,7 @@
       "kr": "에브이",
       "zh": "太陽伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "isotope": "_07",
     "family": "Eevee_07"
   },
@@ -3167,7 +3176,7 @@
       "kr": "블래키",
       "zh": "月亮伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Eevee"
   },
   {
@@ -3180,7 +3189,7 @@
       "kr": "블래키",
       "zh": "月亮伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "isotope": "_07",
     "family": "Eevee_07"
   },
@@ -3194,7 +3203,7 @@
       "kr": "니로우",
       "zh": "黑暗鴉"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Murkrow"
   },
   {
@@ -3207,7 +3216,7 @@
       "kr": "야도킹",
       "zh": "呆呆王"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Slowpoke"
   },
   {
@@ -3220,7 +3229,7 @@
       "kr": "무우마",
       "zh": "夢妖"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Misdreavus"
   },
   {
@@ -3233,7 +3242,7 @@
       "kr": "안농",
       "zh": "未知圖騰"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Unown"
   },
   {
@@ -3246,7 +3255,7 @@
       "kr": "마자용",
       "zh": "果然翁"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Wobbuffet"
   },
   {
@@ -3259,7 +3268,7 @@
       "kr": "키링키",
       "zh": "麒麟奇"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Girafarig"
   },
   {
@@ -3272,7 +3281,7 @@
       "kr": "피콘",
       "zh": "榛果球"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pineco"
   },
   {
@@ -3285,7 +3294,7 @@
       "kr": "쏘콘",
       "zh": "佛烈托斯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Pineco"
   },
   {
@@ -3298,7 +3307,7 @@
       "kr": "노고치",
       "zh": "土龍弟弟"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Dunsparce"
   },
   {
@@ -3311,7 +3320,7 @@
       "kr": "글라이거",
       "zh": "天蠍"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Gligar"
   },
   {
@@ -3324,7 +3333,7 @@
       "kr": "강철톤",
       "zh": "大鋼蛇"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Onix"
   },
   {
@@ -3337,7 +3346,7 @@
       "kr": "블루",
       "zh": "布魯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Snubbull"
   },
   {
@@ -3350,7 +3359,7 @@
       "kr": "그랑블루",
       "zh": "布魯皇"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Snubbull"
   },
   {
@@ -3363,7 +3372,7 @@
       "kr": "침바루",
       "zh": "千針魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Qwilfish"
   },
   {
@@ -3376,7 +3385,7 @@
       "kr": "핫삼",
       "zh": "巨鉗螳螂"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Scyther"
   },
   {
@@ -3389,7 +3398,7 @@
       "kr": "단단지",
       "zh": "壺壺"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Shuckle"
   },
   {
@@ -3402,7 +3411,7 @@
       "kr": "헤라크로스",
       "zh": "赫拉克羅斯"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Heracross"
   },
   {
@@ -3415,7 +3424,7 @@
       "kr": "포푸니",
       "zh": "狃拉"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Sneasel"
   },
   {
@@ -3428,7 +3437,7 @@
       "kr": "깜지곰",
       "zh": "熊寶寶"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Teddiursa"
   },
   {
@@ -3441,7 +3450,7 @@
       "kr": "링곰",
       "zh": "圈圈熊"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Teddiursa"
   },
   {
@@ -3454,7 +3463,7 @@
       "kr": "마그마그",
       "zh": "熔岩蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Slugma"
   },
   {
@@ -3467,7 +3476,7 @@
       "kr": "마그카르고",
       "zh": "熔岩蝸牛"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Slugma"
   },
   {
@@ -3480,7 +3489,7 @@
       "kr": "꾸꾸리",
       "zh": "小山豬"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Swinub"
   },
   {
@@ -3493,7 +3502,7 @@
       "kr": "메꾸리",
       "zh": "長毛豬"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Swinub"
   },
   {
@@ -3506,7 +3515,7 @@
       "kr": "코산호",
       "zh": "太陽珊瑚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Corsola"
   },
   {
@@ -3519,7 +3528,7 @@
       "kr": "총어",
       "zh": "鐵炮魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Remoraid"
   },
   {
@@ -3532,7 +3541,7 @@
       "kr": "대포무노",
       "zh": "章魚桶"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Remoraid"
   },
   {
@@ -3545,7 +3554,7 @@
       "kr": "딜리버드",
       "zh": "信使鳥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Delibird"
   },
   {
@@ -3558,7 +3567,7 @@
       "kr": "만타인",
       "zh": "巨翅飛魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Mantine"
   },
   {
@@ -3571,7 +3580,7 @@
       "kr": "무장조",
       "zh": "盔甲鳥"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Skarmory"
   },
   {
@@ -3584,7 +3593,7 @@
       "kr": "델빌",
       "zh": "戴魯比"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Houndour"
   },
   {
@@ -3597,7 +3606,7 @@
       "kr": "헬가",
       "zh": "黑魯加"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Houndour"
   },
   {
@@ -3610,7 +3619,7 @@
       "kr": "킹드라",
       "zh": "刺龍王"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Horsea"
   },
   {
@@ -3623,7 +3632,7 @@
       "kr": "코코리",
       "zh": "小小象"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Phanpy"
   },
   {
@@ -3636,7 +3645,7 @@
       "kr": "코리갑",
       "zh": "頓甲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Phanpy"
   },
   {
@@ -3649,7 +3658,7 @@
       "kr": "폴리곤2",
       "zh": "多邊獸Ⅱ"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Porygon"
   },
   {
@@ -3662,7 +3671,7 @@
       "kr": "노라키",
       "zh": "驚角鹿"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Stantler"
   },
   {
@@ -3675,7 +3684,7 @@
       "kr": "루브도",
       "zh": "圖圖犬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Smeargle"
   },
   {
@@ -3689,7 +3698,7 @@
       "zh": "無畏小子"
     },
     "order": -1,
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tyrogue"
   },
   {
@@ -3702,7 +3711,7 @@
       "kr": "카포에라",
       "zh": "戰舞郎"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tyrogue"
   },
   {
@@ -3715,7 +3724,7 @@
       "kr": "뽀뽀라",
       "zh": "迷唇娃"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Jynx"
   },
@@ -3729,7 +3738,7 @@
       "kr": "에레키드",
       "zh": "電擊怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Electabuzz"
   },
@@ -3743,7 +3752,7 @@
       "kr": "마그비",
       "zh": "鴨嘴寶寶"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Magmar"
   },
@@ -3757,7 +3766,7 @@
       "kr": "밀탱크",
       "zh": "大奶罐"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Miltank"
   },
   {
@@ -3770,7 +3779,7 @@
       "kr": "해피너스",
       "zh": "幸福蛋"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chansey"
   },
   {
@@ -3783,7 +3792,7 @@
       "kr": "라이코",
       "zh": "雷公"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Raikou"
   },
   {
@@ -3796,7 +3805,7 @@
       "kr": "앤테이",
       "zh": "炎帝"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Entei"
   },
   {
@@ -3809,7 +3818,7 @@
       "kr": "스이쿤",
       "zh": "水君"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Suicune"
   },
   {
@@ -3822,7 +3831,7 @@
       "kr": "애버라스",
       "zh": "幼基拉斯"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Larvitar"
   },
   {
@@ -3835,7 +3844,7 @@
       "kr": "데기라스",
       "zh": "沙基拉斯"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Larvitar"
   },
   {
@@ -3848,7 +3857,7 @@
       "kr": "마기라스",
       "zh": "班基拉斯"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Larvitar"
   },
   {
@@ -3861,7 +3870,7 @@
       "kr": "루기아",
       "zh": "洛奇亞"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Lugia"
   },
   {
@@ -3874,7 +3883,7 @@
       "kr": "칠색조",
       "zh": "鳳王"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Ho Oh"
   },
   {
@@ -3887,7 +3896,7 @@
       "kr": "세레비",
       "zh": "時拉比"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Celebi"
   },
   {
@@ -3900,7 +3909,7 @@
       "kr": "나무지기",
       "zh": "木守宮"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Treecko"
   },
   {
@@ -3913,7 +3922,7 @@
       "kr": "나무돌이",
       "zh": "森林蜥蜴"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Treecko"
   },
   {
@@ -3926,7 +3935,7 @@
       "kr": "나무킹",
       "zh": "蜥蜴王"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Treecko"
   },
   {
@@ -3939,7 +3948,7 @@
       "kr": "아차모",
       "zh": "火稚雞"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Torchic"
   },
   {
@@ -3952,7 +3961,7 @@
       "kr": "영치코",
       "zh": "力壯雞"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Torchic"
   },
   {
@@ -3965,7 +3974,7 @@
       "kr": "번치코",
       "zh": "火焰雞"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Torchic"
   },
   {
@@ -3978,7 +3987,7 @@
       "kr": "물짱이",
       "zh": "水躍魚"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Mudkip"
   },
   {
@@ -3991,7 +4000,7 @@
       "kr": "늪짱이",
       "zh": "沼躍魚"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Mudkip"
   },
   {
@@ -4004,7 +4013,7 @@
       "kr": "대짱이",
       "zh": "巨沼怪"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Mudkip"
   },
   {
@@ -4017,7 +4026,7 @@
       "kr": "포챠나",
       "zh": "土狼犬"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Poochyena"
   },
   {
@@ -4030,7 +4039,7 @@
       "kr": "그라에나",
       "zh": "大狼犬"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Poochyena"
   },
   {
@@ -4043,7 +4052,7 @@
       "kr": "지그제구리",
       "zh": "蛇紋熊"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Zigzagoon"
   },
   {
@@ -4056,7 +4065,7 @@
       "kr": "직구리",
       "zh": "直衝熊"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Zigzagoon"
   },
   {
@@ -4069,7 +4078,7 @@
       "kr": "개무소",
       "zh": "刺尾蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Wurmple"
   },
   {
@@ -4082,7 +4091,7 @@
       "kr": "실쿤",
       "zh": "甲殼繭"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Wurmple"
   },
   {
@@ -4095,7 +4104,7 @@
       "kr": "뷰티플라이",
       "zh": "狩獵鳳蝶"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Wurmple"
   },
   {
@@ -4108,7 +4117,7 @@
       "kr": "카스쿤",
       "zh": "盾甲繭"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Wurmple"
   },
   {
@@ -4121,7 +4130,7 @@
       "kr": "독케일",
       "zh": "毒粉蛾"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Wurmple"
   },
   {
@@ -4134,7 +4143,7 @@
       "kr": "연꽃몬",
       "zh": "蓮葉童子"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Lotad"
   },
   {
@@ -4147,7 +4156,7 @@
       "kr": "로토스",
       "zh": "蓮帽小童"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Lotad"
   },
   {
@@ -4160,7 +4169,7 @@
       "kr": "로파파",
       "zh": "樂天河童"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Lotad"
   },
   {
@@ -4173,7 +4182,8 @@
       "kr": "도토링",
       "zh": "橡實果"
     },
-    "shiny_released": false,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Seedot"
   },
   {
@@ -4186,7 +4196,8 @@
       "kr": "잎새코",
       "zh": "長鼻葉"
     },
-    "shiny_released": false,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Seedot"
   },
   {
@@ -4199,7 +4210,8 @@
       "kr": "다탱구",
       "zh": "狡猾天狗"
     },
-    "shiny_released": false,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Seedot"
   },
   {
@@ -4212,7 +4224,7 @@
       "kr": "테일로",
       "zh": "傲骨燕"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Taillow"
   },
   {
@@ -4225,7 +4237,7 @@
       "kr": "스왈로",
       "zh": "大王燕"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Taillow"
   },
   {
@@ -4238,7 +4250,7 @@
       "kr": "갈모매",
       "zh": "長翅鷗"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Wingull"
   },
   {
@@ -4251,7 +4263,7 @@
       "kr": "패리퍼",
       "zh": "大嘴鷗"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Wingull"
   },
   {
@@ -4264,7 +4276,7 @@
       "kr": "랄토스",
       "zh": "拉魯拉絲"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Ralts"
   },
   {
@@ -4277,7 +4289,7 @@
       "kr": "킬리아",
       "zh": "奇魯莉安"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Ralts"
   },
   {
@@ -4290,7 +4302,7 @@
       "kr": "가디안",
       "zh": "沙奈朵"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Ralts"
   },
   {
@@ -4303,7 +4315,7 @@
       "kr": "비구술",
       "zh": "溜溜糖球"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Surskit"
   },
   {
@@ -4316,7 +4328,7 @@
       "kr": "비나방",
       "zh": "雨翅蛾"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Surskit"
   },
   {
@@ -4329,7 +4341,7 @@
       "kr": "버섯꼬",
       "zh": "蘑蘑菇"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Shroomish"
   },
   {
@@ -4342,7 +4354,7 @@
       "kr": "버섯모",
       "zh": "斗笠菇"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Shroomish"
   },
   {
@@ -4355,7 +4367,7 @@
       "kr": "게을로",
       "zh": "懶人獺"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Slakoth"
   },
   {
@@ -4368,7 +4380,7 @@
       "kr": "발바로",
       "zh": "過動猿"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Slakoth"
   },
   {
@@ -4381,7 +4393,7 @@
       "kr": "게을킹",
       "zh": "請假王"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Slakoth"
   },
   {
@@ -4394,7 +4406,7 @@
       "kr": "토중몬",
       "zh": "土居忍士"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Nincada"
   },
   {
@@ -4407,7 +4419,7 @@
       "kr": "아이스크",
       "zh": "鐵面忍者"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Nincada"
   },
   {
@@ -4420,7 +4432,7 @@
       "kr": "껍질몬",
       "zh": "脫殼忍者"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Nincada"
   },
   {
@@ -4433,7 +4445,7 @@
       "kr": "소곤룡",
       "zh": "咕妞妞"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Whismur"
   },
   {
@@ -4446,7 +4458,7 @@
       "kr": "노공룡",
       "zh": "吼爆彈"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Whismur"
   },
   {
@@ -4459,7 +4471,7 @@
       "kr": "폭음룡",
       "zh": "爆音怪"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Whismur"
   },
   {
@@ -4472,7 +4484,7 @@
       "kr": "마크탕",
       "zh": "幕下力士"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Makuhita"
   },
   {
@@ -4485,7 +4497,7 @@
       "kr": "하리뭉",
       "zh": "鐵掌力士"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Makuhita"
   },
   {
@@ -4498,7 +4510,7 @@
       "kr": "루리리",
       "zh": "露力麗"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Marill"
   },
@@ -4512,7 +4524,7 @@
       "kr": "코코파스",
       "zh": "朝北鼻"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Nosepass"
   },
   {
@@ -4525,7 +4537,7 @@
       "kr": "에나비",
       "zh": "向尾喵"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Skitty"
   },
   {
@@ -4538,7 +4550,7 @@
       "kr": "델케티",
       "zh": "優雅貓"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Skitty"
   },
   {
@@ -4551,7 +4563,8 @@
       "kr": "깜까미",
       "zh": "勾魂眼"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Sableye"
   },
   {
@@ -4564,7 +4577,7 @@
       "kr": "입치트",
       "zh": "大嘴娃"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Mawile"
   },
   {
@@ -4577,7 +4590,7 @@
       "kr": "가보리",
       "zh": "可可多拉"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Aron"
   },
   {
@@ -4590,7 +4603,7 @@
       "kr": "갱도라",
       "zh": "可多拉"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Aron"
   },
   {
@@ -4603,7 +4616,7 @@
       "kr": "보스로라",
       "zh": "波士可多拉"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Aron"
   },
   {
@@ -4616,7 +4629,7 @@
       "kr": "요가랑",
       "zh": "瑪沙那"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Meditite"
   },
   {
@@ -4629,7 +4642,7 @@
       "kr": "요가램",
       "zh": "恰雷姆"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Meditite"
   },
   {
@@ -4642,7 +4655,7 @@
       "kr": "썬더라이",
       "zh": "落雷獸"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Electrike"
   },
   {
@@ -4655,7 +4668,7 @@
       "kr": "썬더볼트",
       "zh": "雷電獸"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Electrike"
   },
   {
@@ -4668,7 +4681,7 @@
       "kr": "플러시",
       "zh": "正電拍拍"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Plusle"
   },
   {
@@ -4681,7 +4694,7 @@
       "kr": "마이농",
       "zh": "負電拍拍"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Minun"
   },
   {
@@ -4694,7 +4707,7 @@
       "kr": "볼비트",
       "zh": "電螢蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Volbeat"
   },
   {
@@ -4707,7 +4720,7 @@
       "kr": "네오비트",
       "zh": "甜甜螢"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Illumise"
   },
   {
@@ -4720,7 +4733,7 @@
       "kr": "로젤리아",
       "zh": "毒薔薇"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Roselia"
   },
   {
@@ -4733,7 +4746,7 @@
       "kr": "꼴깍몬",
       "zh": "溶食獸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Gulpin"
   },
   {
@@ -4746,7 +4759,7 @@
       "kr": "꿀꺽몬",
       "zh": "吞食獸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Gulpin"
   },
   {
@@ -4759,7 +4772,7 @@
       "kr": "샤프니아",
       "zh": "利牙魚"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Carvanha"
   },
   {
@@ -4772,7 +4785,7 @@
       "kr": "샤크니아",
       "zh": "巨牙鯊"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Carvanha"
   },
   {
@@ -4785,7 +4798,7 @@
       "kr": "고래왕자",
       "zh": "吼吼鯨"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Wailmer"
   },
   {
@@ -4798,7 +4811,7 @@
       "kr": "고래왕",
       "zh": "吼鯨王"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Wailmer"
   },
   {
@@ -4811,7 +4824,7 @@
       "kr": "둔타",
       "zh": "呆火駝"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Numel"
   },
   {
@@ -4824,7 +4837,7 @@
       "kr": "폭타",
       "zh": "噴火駝"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Numel"
   },
   {
@@ -4837,7 +4850,7 @@
       "kr": "코터스",
       "zh": "煤炭龜"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Torkoal"
   },
   {
@@ -4850,7 +4863,7 @@
       "kr": "피그점프",
       "zh": "跳跳豬"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Spoink"
   },
   {
@@ -4863,7 +4876,7 @@
       "kr": "피그킹",
       "zh": "噗噗豬"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Spoink"
   },
   {
@@ -4876,7 +4889,7 @@
       "kr": "얼루기",
       "zh": "晃晃斑"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Spinda"
   },
   {
@@ -4890,7 +4903,7 @@
       "zh": "晃晃斑 #3"
     },
     "type": "_13",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Spinda"
   },
   {
@@ -4904,7 +4917,7 @@
       "zh": "晃晃斑 #8"
     },
     "type": "_18",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Spinda"
   },
   {
@@ -4917,8 +4930,8 @@
       "kr": "톱치",
       "zh": "大顎蟻"
     },
-    "shiny_released": false,
-    "released_date": "2019/10/12",
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Trapinch"
   },
   {
@@ -4931,8 +4944,8 @@
       "kr": "비브라바",
       "zh": "超音波幼蟲"
     },
-    "shiny_released": false,
-    "released_date": "2019/10/12",
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Trapinch"
   },
   {
@@ -4945,8 +4958,8 @@
       "kr": "플라이곤",
       "zh": "沙漠蜻蜓"
     },
-    "shiny_released": false,
-    "released_date": "2019/10/12",
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Trapinch"
   },
   {
@@ -4959,7 +4972,8 @@
       "kr": "선인왕",
       "zh": "刺球仙人掌"
     },
-    "shiny_released": false,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Cacnea"
   },
   {
@@ -4972,7 +4986,8 @@
       "kr": "밤선인",
       "zh": "夢歌仙人掌"
     },
-    "shiny_released": false,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Cacnea"
   },
   {
@@ -4985,7 +5000,7 @@
       "kr": "파비코",
       "zh": "青綿鳥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Swablu"
   },
   {
@@ -4998,7 +5013,7 @@
       "kr": "파비코리",
       "zh": "七夕青鳥"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Swablu"
   },
   {
@@ -5011,8 +5026,7 @@
       "kr": "쟝고",
       "zh": "貓鼬斬"
     },
-    "shiny_released": false,
-    "released_date": "2019-09-26T20:00Z",
+    "shadow_released": false,
     "family": "Zangoose"
   },
   {
@@ -5025,8 +5039,7 @@
       "kr": "세비퍼",
       "zh": "飯匙蛇"
     },
-    "shiny_released": false,
-    "released_date": "2019-09-26T20:00Z",
+    "shadow_released": false,
     "family": "Seviper"
   },
   {
@@ -5039,7 +5052,7 @@
       "kr": "루나톤",
       "zh": "月石"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Lunatone"
   },
   {
@@ -5052,7 +5065,7 @@
       "kr": "솔록",
       "zh": "太陽岩"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Solrock"
   },
   {
@@ -5065,7 +5078,7 @@
       "kr": "미꾸리",
       "zh": "泥泥鰍"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Barboach"
   },
   {
@@ -5078,7 +5091,7 @@
       "kr": "메깅",
       "zh": "鯰魚王"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Barboach"
   },
   {
@@ -5091,7 +5104,7 @@
       "kr": "가재군",
       "zh": "龍蝦小兵"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Corphish"
   },
   {
@@ -5104,7 +5117,7 @@
       "kr": "가재장군",
       "zh": "鐵螯龍蝦"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Corphish"
   },
   {
@@ -5117,7 +5130,7 @@
       "kr": "오뚝군",
       "zh": "天秤偶"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Baltoy"
   },
   {
@@ -5130,7 +5143,7 @@
       "kr": "점토도리",
       "zh": "念力土偶"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Baltoy"
   },
   {
@@ -5143,7 +5156,7 @@
       "kr": "릴링",
       "zh": "觸手百合"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Lileep"
   },
   {
@@ -5156,7 +5169,7 @@
       "kr": "릴리요",
       "zh": "搖籃百合"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Lileep"
   },
   {
@@ -5169,7 +5182,7 @@
       "kr": "아노딥스",
       "zh": "太古羽蟲"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Anorith"
   },
   {
@@ -5182,7 +5195,7 @@
       "kr": "아말도",
       "zh": "太古盔甲"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Anorith"
   },
   {
@@ -5195,7 +5208,7 @@
       "kr": "빈티나",
       "zh": "醜醜魚"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Feebas"
   },
   {
@@ -5208,7 +5221,7 @@
       "kr": "밀로틱",
       "zh": "美納斯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Feebas"
   },
   {
@@ -5221,7 +5234,7 @@
       "kr": "캐스퐁",
       "zh": "飄浮泡泡"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Castform"
   },
   {
@@ -5234,7 +5247,7 @@
       "kr": "켈리몬",
       "zh": "變隱龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Kecleon"
   },
   {
@@ -5247,7 +5260,8 @@
       "kr": "어둠대신",
       "zh": "怨影娃娃"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Shuppet"
   },
   {
@@ -5260,7 +5274,8 @@
       "kr": "다크펫",
       "zh": "詛咒娃娃"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Shuppet"
   },
   {
@@ -5273,7 +5288,8 @@
       "kr": "해골몽",
       "zh": "夜巡靈"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Duskull"
   },
   {
@@ -5286,7 +5302,8 @@
       "kr": "미라몽",
       "zh": "彷徨夜靈"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Duskull"
   },
   {
@@ -5299,7 +5316,7 @@
       "kr": "트로피우스",
       "zh": "熱帶龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tropius"
   },
   {
@@ -5312,7 +5329,7 @@
       "kr": "치렁",
       "zh": "風鈴鈴"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chimecho"
   },
   {
@@ -5325,7 +5342,7 @@
       "kr": "앱솔",
       "zh": "阿勃梭魯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Absol"
   },
   {
@@ -5338,7 +5355,7 @@
       "kr": "마자",
       "zh": "小果然"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "order": -1,
     "family": "Wobbuffet"
   },
@@ -5352,7 +5369,7 @@
       "kr": "눈꼬마",
       "zh": "雪童子"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Snorunt"
   },
   {
@@ -5365,7 +5382,7 @@
       "kr": "얼음귀신",
       "zh": "冰鬼護"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Snorunt"
   },
   {
@@ -5378,7 +5395,7 @@
       "kr": "대굴레오",
       "zh": "海豹球"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Spheal"
   },
   {
@@ -5391,7 +5408,7 @@
       "kr": "씨레오",
       "zh": "海魔獅"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Spheal"
   },
   {
@@ -5404,7 +5421,7 @@
       "kr": "씨카이저",
       "zh": "帝牙海獅"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Spheal"
   },
   {
@@ -5417,7 +5434,7 @@
       "kr": "진주몽",
       "zh": "珍珠貝"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Clamperl"
   },
   {
@@ -5430,7 +5447,7 @@
       "kr": "헌테일",
       "zh": "獵斑魚"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Clamperl"
   },
   {
@@ -5443,7 +5460,7 @@
       "kr": "분홍장이",
       "zh": "櫻花魚"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Clamperl"
   },
   {
@@ -5456,7 +5473,7 @@
       "kr": "시라칸",
       "zh": "古空棘魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Relicanth"
   },
   {
@@ -5469,7 +5486,7 @@
       "kr": "사랑동이",
       "zh": "愛心魚"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Luvdisc"
   },
   {
@@ -5482,7 +5499,7 @@
       "kr": "아공이",
       "zh": "寶貝龍"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Bagon"
   },
   {
@@ -5495,7 +5512,7 @@
       "kr": "쉘곤",
       "zh": "甲殼龍"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Bagon"
   },
   {
@@ -5508,7 +5525,7 @@
       "kr": "보만다",
       "zh": "暴飛龍"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Bagon"
   },
   {
@@ -5521,7 +5538,7 @@
       "kr": "메탕",
       "zh": "鐵啞鈴"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Beldum"
   },
   {
@@ -5534,7 +5551,7 @@
       "kr": "메탕구",
       "zh": "金屬怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Beldum"
   },
   {
@@ -5547,7 +5564,7 @@
       "kr": "메타그로스",
       "zh": "巨金怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Beldum"
   },
   {
@@ -5560,7 +5577,7 @@
       "kr": "레지락",
       "zh": "雷吉洛克"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Regirock"
   },
   {
@@ -5573,7 +5590,7 @@
       "kr": "레지아이스",
       "zh": "雷吉艾斯"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Regice"
   },
   {
@@ -5586,7 +5603,7 @@
       "kr": "레지스틸",
       "zh": "雷吉斯奇魯"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Registeel"
   },
   {
@@ -5599,7 +5616,7 @@
       "kr": "라티아스",
       "zh": "拉帝亞斯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Latias"
   },
   {
@@ -5612,7 +5629,7 @@
       "kr": "라티오스",
       "zh": "拉帝歐斯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Latios"
   },
   {
@@ -5625,7 +5642,7 @@
       "kr": "가이오가",
       "zh": "蓋歐卡"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Kyogre"
   },
   {
@@ -5638,7 +5655,7 @@
       "kr": "그란돈",
       "zh": "固拉多"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Groudon"
   },
   {
@@ -5651,7 +5668,7 @@
       "kr": "레쿠쟈",
       "zh": "烈空坐"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Rayquaza"
   },
   {
@@ -5664,7 +5681,7 @@
       "kr": "지라치",
       "zh": "基拉祈"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Jirachi"
   },
   {
@@ -5677,7 +5694,7 @@
       "kr": "테오키스",
       "zh": "代歐奇希斯"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Deoxys"
   },
   {
@@ -5690,7 +5707,7 @@
       "kr": "모부기",
       "zh": "草苗龜"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Turtwig"
   },
   {
@@ -5703,7 +5720,7 @@
       "kr": "수풀부기",
       "zh": "樹林龜"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Turtwig"
   },
   {
@@ -5716,7 +5733,7 @@
       "kr": "토대부기",
       "zh": "土台龜"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Turtwig"
   },
   {
@@ -5729,7 +5746,7 @@
       "kr": "불꽃숭이",
       "zh": "小火焰猴"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chimchar"
   },
   {
@@ -5742,7 +5759,7 @@
       "kr": "파이숭이",
       "zh": "猛火猴"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chimchar"
   },
   {
@@ -5755,7 +5772,7 @@
       "kr": "초염몽",
       "zh": "烈焰猴"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chimchar"
   },
   {
@@ -5768,7 +5785,7 @@
       "kr": "팽도리",
       "zh": "波加曼"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Piplup"
   },
   {
@@ -5781,7 +5798,7 @@
       "kr": "팽태자",
       "zh": "波皇子"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Piplup"
   },
   {
@@ -5794,7 +5811,7 @@
       "kr": "엠페르트",
       "zh": "帝王拿波"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Piplup"
   },
   {
@@ -5807,7 +5824,7 @@
       "kr": "찌르꼬",
       "zh": "姆克兒"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Starly"
   },
   {
@@ -5820,7 +5837,7 @@
       "kr": "찌르버드",
       "zh": "姆克鳥"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Starly"
   },
   {
@@ -5833,7 +5850,7 @@
       "kr": "찌르호크",
       "zh": "姆克鷹"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Starly"
   },
   {
@@ -5846,7 +5863,7 @@
       "kr": "비버니",
       "zh": "大牙狸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Bidoof"
   },
   {
@@ -5859,7 +5876,7 @@
       "kr": "비버통",
       "zh": "大尾狸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Bidoof"
   },
   {
@@ -5872,7 +5889,7 @@
       "kr": "귀뚤뚜기",
       "zh": "圓法師"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Kricketot"
   },
   {
@@ -5885,7 +5902,7 @@
       "kr": "귀뚤톡크",
       "zh": "音箱蟀"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Kricketot"
   },
   {
@@ -5898,7 +5915,7 @@
       "kr": "꼬링크",
       "zh": "小貓怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Shinx"
   },
   {
@@ -5911,7 +5928,7 @@
       "kr": "럭시오",
       "zh": "勒克貓"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Shinx"
   },
   {
@@ -5924,7 +5941,7 @@
       "kr": "렌트라",
       "zh": "倫琴貓"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Shinx"
   },
   {
@@ -5937,7 +5954,7 @@
       "kr": "꼬몽울",
       "zh": "含羞苞"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Roselia",
     "order": -1
   },
@@ -5951,7 +5968,7 @@
       "kr": "로즈레이드",
       "zh": "羅絲雷朵"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Roselia"
   },
   {
@@ -5964,7 +5981,7 @@
       "kr": "두개도스",
       "zh": "頭蓋龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Cranidos"
   },
   {
@@ -5977,7 +5994,7 @@
       "kr": "램펄드",
       "zh": "戰槌龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Cranidos"
   },
   {
@@ -5990,7 +6007,7 @@
       "kr": "방패톱스",
       "zh": "盾甲龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Shieldon"
   },
   {
@@ -6003,7 +6020,7 @@
       "kr": "바리톱스",
       "zh": "護城龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Shieldon"
   },
   {
@@ -6016,7 +6033,7 @@
       "kr": "도롱충이",
       "zh": "結草兒"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Burmy"
   },
   {
@@ -6029,7 +6046,7 @@
       "kr": "도롱마담",
       "zh": "結草貴婦"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Burmy"
   },
   {
@@ -6042,7 +6059,7 @@
       "kr": "나메일",
       "zh": "紳士蛾"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Burmy"
   },
   {
@@ -6055,7 +6072,7 @@
       "kr": "세꿀버리",
       "zh": "三蜜蜂"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Combee"
   },
   {
@@ -6068,7 +6085,7 @@
       "kr": "비퀸",
       "zh": "蜂女王"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Combee"
   },
   {
@@ -6081,7 +6098,7 @@
       "kr": "파치리스",
       "zh": "帕奇利茲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Pachirisu"
   },
   {
@@ -6094,7 +6111,7 @@
       "kr": "브이젤",
       "zh": "泳圈鼬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Floatzel"
   },
   {
@@ -6107,7 +6124,7 @@
       "kr": "플로젤",
       "zh": "浮潛鼬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Floatzel"
   },
   {
@@ -6120,7 +6137,7 @@
       "kr": "체리버",
       "zh": "櫻花寶"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Cherubi"
   },
   {
@@ -6133,7 +6150,7 @@
       "kr": "체리꼬",
       "zh": "櫻花兒"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Cherubi"
   },
   {
@@ -6146,7 +6163,7 @@
       "kr": "깝질무",
       "zh": "無殼海兔"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Shellos"
   },
   {
@@ -6159,7 +6176,7 @@
       "kr": "트리토돈",
       "zh": "海兔獸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Shellos"
   },
   {
@@ -6172,7 +6189,7 @@
       "kr": "겟핸보숭",
       "zh": "雙尾怪手"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Aipom"
   },
   {
@@ -6185,7 +6202,7 @@
       "kr": "흔들풍손",
       "zh": "飄飄球"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Drifloon"
   },
   {
@@ -6198,7 +6215,7 @@
       "kr": "둥실라이드",
       "zh": "隨風球"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Drifloon"
   },
   {
@@ -6211,7 +6228,7 @@
       "kr": "이어롤",
       "zh": "捲捲耳"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Buneary"
   },
   {
@@ -6224,7 +6241,7 @@
       "kr": "이어롭",
       "zh": "長耳兔"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Buneary"
   },
   {
@@ -6237,7 +6254,7 @@
       "kr": "무우마직",
       "zh": "夢妖魔"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Misdreavus"
   },
   {
@@ -6250,7 +6267,7 @@
       "kr": "돈크로우",
       "zh": "烏鴉頭頭"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Murkrow"
   },
   {
@@ -6263,7 +6280,7 @@
       "kr": "나옹마",
       "zh": "魅力喵"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Glameow"
   },
   {
@@ -6276,7 +6293,7 @@
       "kr": "몬냥이",
       "zh": "東施喵"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Glameow"
   },
   {
@@ -6289,7 +6306,7 @@
       "kr": "랑딸랑",
       "zh": "鈴鐺響"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chimecho",
     "order": -1
   },
@@ -6303,7 +6320,7 @@
       "kr": "스컹뿡",
       "zh": "臭鼬噗"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Stunky"
   },
   {
@@ -6316,7 +6333,7 @@
       "kr": "스컹탱크",
       "zh": "坦克臭鼬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Stunky"
   },
   {
@@ -6329,7 +6346,7 @@
       "kr": "동미러",
       "zh": "銅鏡怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Bronzor"
   },
   {
@@ -6342,7 +6359,7 @@
       "kr": "동탁군",
       "zh": "青銅鐘"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Bronzor"
   },
   {
@@ -6356,7 +6373,7 @@
       "zh": "盆才怪"
     },
     "order": -1,
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Sudowoodo"
   },
   {
@@ -6370,8 +6387,7 @@
       "zh": "魔尼尼"
     },
     "order": -1,
-    "shiny_released": false,
-    "released_date": "2019-09-26T20:00Z",
+    "shadow_released": false,
     "family": "Mr Mime"
   },
   {
@@ -6384,7 +6400,7 @@
       "kr": "핑복",
       "zh": "小福蛋"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chansey",
     "order": -1
   },
@@ -6398,7 +6414,7 @@
       "kr": "페라페",
       "zh": "聒噪鳥"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Chatot"
   },
   {
@@ -6411,7 +6427,7 @@
       "kr": "화강돌",
       "zh": "花岩怪"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Spiritomb"
   },
   {
@@ -6424,7 +6440,7 @@
       "kr": "딥상어동",
       "zh": "圓陸鯊"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Gible"
   },
   {
@@ -6437,7 +6453,7 @@
       "kr": "한바이트",
       "zh": "尖牙陸鯊"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Gible"
   },
   {
@@ -6450,7 +6466,7 @@
       "kr": "한카리아스",
       "zh": "烈咬陸鯊"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Gible"
   },
   {
@@ -6463,7 +6479,7 @@
       "kr": "먹고자",
       "zh": "小卡比獸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Snorlax",
     "order": -1
   },
@@ -6477,7 +6493,7 @@
       "kr": "리오르",
       "zh": "利歐路"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Riolu"
   },
   {
@@ -6490,7 +6506,7 @@
       "kr": "루카리오",
       "zh": "路卡利歐"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Riolu"
   },
   {
@@ -6503,7 +6519,7 @@
       "kr": "히포포타스",
       "zh": "沙河馬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Hippowdon"
   },
   {
@@ -6516,7 +6532,7 @@
       "kr": "하마돈",
       "zh": "河馬獸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Hippowdon"
   },
   {
@@ -6529,7 +6545,7 @@
       "kr": "스콜피",
       "zh": "鉗尾蠍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Skorupi"
   },
   {
@@ -6542,7 +6558,7 @@
       "kr": "드래피온",
       "zh": "龍王蠍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Skorupi"
   },
   {
@@ -6555,7 +6571,7 @@
       "kr": "삐딱구리",
       "zh": "不良蛙"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Croagunk"
   },
   {
@@ -6568,7 +6584,7 @@
       "kr": "독개굴",
       "zh": "毒骷蛙"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Croagunk"
   },
   {
@@ -6581,7 +6597,7 @@
       "kr": "무스틈니",
       "zh": "尖牙籠"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Carnivine"
   },
   {
@@ -6594,7 +6610,7 @@
       "kr": "형광어",
       "zh": "螢光魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Finneon"
   },
   {
@@ -6607,7 +6623,7 @@
       "kr": "네오라이트",
       "zh": "霓虹魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Finneon"
   },
   {
@@ -6621,7 +6637,7 @@
       "zh": "小球飛魚"
     },
     "order": -1,
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Mantine"
   },
   {
@@ -6634,7 +6650,7 @@
       "kr": "눈쓰개",
       "zh": "雪笠怪"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Snover"
   },
   {
@@ -6647,7 +6663,7 @@
       "kr": "눈설왕",
       "zh": "暴雪王"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Snover"
   },
   {
@@ -6660,7 +6676,7 @@
       "kr": "포푸니라",
       "zh": "瑪狃拉"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Sneasel"
   },
   {
@@ -6673,7 +6689,7 @@
       "kr": "자포코일",
       "zh": "自爆磁怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Magnemite"
   },
   {
@@ -6686,7 +6702,7 @@
       "kr": "내룸벨트",
       "zh": "大舌舔"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Lickitung"
   },
   {
@@ -6699,7 +6715,7 @@
       "kr": "거대코뿌리",
       "zh": "超甲狂犀"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Rhyhorn"
   },
   {
@@ -6712,7 +6728,7 @@
       "kr": "덩쿠림보",
       "zh": "巨蔓藤"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tangela"
   },
   {
@@ -6725,7 +6741,8 @@
       "kr": "에레키블",
       "zh": "電擊魔獸"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Electabuzz"
   },
   {
@@ -6738,7 +6755,8 @@
       "kr": "마그마번",
       "zh": "鴨嘴炎獸"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Magmar"
   },
   {
@@ -6751,7 +6769,7 @@
       "kr": "토게키스",
       "zh": "波克基斯"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Togepi"
   },
   {
@@ -6764,7 +6782,7 @@
       "kr": "메가자리",
       "zh": "遠古巨蜓"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Yanma"
   },
   {
@@ -6777,7 +6795,7 @@
       "kr": "리피아",
       "zh": "葉伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Eevee"
   },
   {
@@ -6790,7 +6808,7 @@
       "kr": "리피아",
       "zh": "葉伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "isotope": "_07",
     "family": "Eevee_07"
   },
@@ -6804,7 +6822,7 @@
       "kr": "글레이시아",
       "zh": "冰伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Eevee"
   },
   {
@@ -6817,7 +6835,7 @@
       "kr": "글레이시아",
       "zh": "冰伊布"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "isotope": "_07",
     "family": "Eevee_07"
   },
@@ -6831,7 +6849,7 @@
       "kr": "글라이온",
       "zh": "天蠍王"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Gligar"
   },
   {
@@ -6844,7 +6862,7 @@
       "kr": "맘모꾸리",
       "zh": "象牙豬"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Swinub"
   },
   {
@@ -6857,7 +6875,7 @@
       "kr": "폴리곤Z",
       "zh": "多邊獸Ｚ"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Porygon"
   },
   {
@@ -6870,7 +6888,7 @@
       "kr": "엘레이드",
       "zh": "艾路雷朵"
     },
-    "shiny_released": true,
+    "shadow_released": true,
     "family": "Ralts"
   },
   {
@@ -6883,7 +6901,7 @@
       "kr": "대코파스",
       "zh": "大朝北鼻"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Nosepass"
   },
   {
@@ -6896,7 +6914,8 @@
       "kr": "야느와르몽",
       "zh": "黑夜魔靈"
     },
-    "shiny_released": true,
+    "shadow_released": false,
+    "released_date": "2019-10-17T20:00Z",
     "family": "Duskull"
   },
   {
@@ -6909,7 +6928,7 @@
       "kr": "눈여아",
       "zh": "雪妖女"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Snorunt"
   },
   {
@@ -6922,7 +6941,7 @@
       "kr": "로토무",
       "zh": "洛托姆"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Rotom"
   },
   {
@@ -6935,7 +6954,7 @@
       "kr": "유크시",
       "zh": "由克希"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Uxie"
   },
   {
@@ -6948,7 +6967,7 @@
       "kr": "엠라이트",
       "zh": "艾姆利多"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Mesprit"
   },
   {
@@ -6961,7 +6980,7 @@
       "kr": "아그놈",
       "zh": "亞克諾姆"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Azelf"
   },
   {
@@ -6974,7 +6993,7 @@
       "kr": "디아루가",
       "zh": "帝牙盧卡"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Dialga"
   },
   {
@@ -6987,7 +7006,7 @@
       "kr": "펄기아",
       "zh": "帕路奇亞"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Palkia"
   },
   {
@@ -7000,7 +7019,7 @@
       "kr": "히드런",
       "zh": "席多藍恩"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Heatran"
   },
   {
@@ -7013,7 +7032,7 @@
       "kr": "레지기가스",
       "zh": "雷吉奇卡斯"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Regigigas"
   },
   {
@@ -7027,7 +7046,7 @@
       "zh": "騎拉帝納"
     },
     "type": "_12",
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Giratina"
   },
   {
@@ -7041,7 +7060,7 @@
       "zh": "騎拉帝納"
     },
     "type": "_11",
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Giratina"
   },
   {
@@ -7054,7 +7073,7 @@
       "kr": "크레세리아",
       "zh": "克雷色利亞"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Cresselia"
   },
   {
@@ -7067,7 +7086,7 @@
       "kr": "피오네",
       "zh": "霏歐納"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Phione"
   },
   {
@@ -7080,7 +7099,7 @@
       "kr": "마나피",
       "zh": "瑪納霏"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Manaphy"
   },
   {
@@ -7093,7 +7112,7 @@
       "kr": "다크라이",
       "zh": "達克萊伊"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Darkrai"
   },
   {
@@ -7106,7 +7125,7 @@
       "kr": "쉐이미",
       "zh": "謝米"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Shaymin"
   },
   {
@@ -7119,7 +7138,7 @@
       "kr": "아르세우스",
       "zh": "阿爾宙斯"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Arceus"
   },
   {
@@ -7132,7 +7151,7 @@
       "kr": "비크티니",
       "zh": "比克提尼"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Victini"
   },
   {
@@ -7145,7 +7164,7 @@
       "kr": "주리비얀",
       "zh": "藤藤蛇"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Snivy"
   },
   {
@@ -7158,7 +7177,7 @@
       "kr": "샤비",
       "zh": "青藤蛇"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Snivy"
   },
   {
@@ -7171,7 +7190,7 @@
       "kr": "샤로다",
       "zh": "君主蛇"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Snivy"
   },
   {
@@ -7184,7 +7203,7 @@
       "kr": "뚜꾸리",
       "zh": "暖暖豬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tepig"
   },
   {
@@ -7197,7 +7216,7 @@
       "kr": "챠오꿀",
       "zh": "炒炒豬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tepig"
   },
   {
@@ -7210,7 +7229,7 @@
       "kr": "염무왕",
       "zh": "炎武王"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tepig"
   },
   {
@@ -7223,7 +7242,7 @@
       "kr": "수댕이",
       "zh": "水水獺"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Oshawott"
   },
   {
@@ -7236,7 +7255,7 @@
       "kr": "쌍검자비",
       "zh": "雙刃丸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Oshawott"
   },
   {
@@ -7249,7 +7268,7 @@
       "kr": "대검귀",
       "zh": "大劍鬼"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Oshawott"
   },
   {
@@ -7262,7 +7281,7 @@
       "kr": "보르쥐",
       "zh": "探探鼠"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Patrat"
   },
   {
@@ -7275,7 +7294,7 @@
       "kr": "보르그",
       "zh": "步哨鼠"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Patrat"
   },
   {
@@ -7288,7 +7307,7 @@
       "kr": "요테리",
       "zh": "小約克"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Lillipup"
   },
   {
@@ -7301,7 +7320,7 @@
       "kr": "하데리어",
       "zh": "哈約克"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Lillipup"
   },
   {
@@ -7314,7 +7333,7 @@
       "kr": "바랜드",
       "zh": "長毛狗"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Lillipup"
   },
   {
@@ -7327,7 +7346,7 @@
       "kr": "쌔비냥",
       "zh": "扒手貓"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Purrloin"
   },
   {
@@ -7340,7 +7359,7 @@
       "kr": "레파르다스",
       "zh": "酷豹"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Purrloin"
   },
   {
@@ -7353,7 +7372,7 @@
       "kr": "야나프",
       "zh": "花椰猴"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Pansage"
   },
   {
@@ -7366,7 +7385,7 @@
       "kr": "야나키",
       "zh": "花椰猿"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Pansage"
   },
   {
@@ -7379,7 +7398,7 @@
       "kr": "바오프",
       "zh": "爆香猴"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Pansear"
   },
   {
@@ -7392,7 +7411,7 @@
       "kr": "바오키",
       "zh": "爆香猿"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Pansear"
   },
   {
@@ -7405,7 +7424,7 @@
       "kr": "앗차프",
       "zh": "冷水猴"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Panpour"
   },
   {
@@ -7418,7 +7437,7 @@
       "kr": "앗차키",
       "zh": "冷水猿"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Panpour"
   },
   {
@@ -7431,7 +7450,7 @@
       "kr": "몽나",
       "zh": "食夢夢"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Munna"
   },
   {
@@ -7444,7 +7463,7 @@
       "kr": "몽얌나",
       "zh": "夢夢蝕"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Munna"
   },
   {
@@ -7457,7 +7476,7 @@
       "kr": "콩둘기",
       "zh": "豆豆鴿"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Pidove"
   },
   {
@@ -7470,7 +7489,7 @@
       "kr": "유토브",
       "zh": "咕咕鴿"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Pidove"
   },
   {
@@ -7483,7 +7502,7 @@
       "kr": "켄호로우",
       "zh": "高傲雉雞"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Pidove"
   },
   {
@@ -7496,7 +7515,7 @@
       "kr": "줄뮤마",
       "zh": "斑斑馬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Blitzle"
   },
   {
@@ -7509,7 +7528,7 @@
       "kr": "제브라이카",
       "zh": "雷電斑馬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Blitzle"
   },
   {
@@ -7522,7 +7541,7 @@
       "kr": "단굴",
       "zh": "石丸子"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Roggenrola"
   },
   {
@@ -7535,7 +7554,7 @@
       "kr": "암트르",
       "zh": "地幔岩"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Roggenrola"
   },
   {
@@ -7548,7 +7567,7 @@
       "kr": "기가이어스",
       "zh": "龐岩怪"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Roggenrola"
   },
   {
@@ -7561,7 +7580,7 @@
       "kr": "또르박쥐",
       "zh": "滾滾蝙蝠"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Woobat"
   },
   {
@@ -7574,7 +7593,7 @@
       "kr": "맘박쥐",
       "zh": "心蝙蝠"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Woobat"
   },
   {
@@ -7587,7 +7606,7 @@
       "kr": "두더류",
       "zh": "螺釘地鼠"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Drilbur"
   },
   {
@@ -7600,7 +7619,7 @@
       "kr": "몰드류",
       "zh": "龍頭地鼠"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Drilbur"
   },
   {
@@ -7613,7 +7632,7 @@
       "kr": "다부니",
       "zh": "差不多娃娃"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Audino"
   },
   {
@@ -7626,7 +7645,7 @@
       "kr": "으랏차",
       "zh": "搬運小匠"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Timburr"
   },
   {
@@ -7639,7 +7658,7 @@
       "kr": "토쇠골",
       "zh": "鐵骨土人"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Timburr"
   },
   {
@@ -7652,7 +7671,7 @@
       "kr": "노보청",
       "zh": "修建老匠"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Timburr"
   },
   {
@@ -7665,7 +7684,7 @@
       "kr": "동챙이",
       "zh": "圓蝌蚪"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tympole"
   },
   {
@@ -7678,7 +7697,7 @@
       "kr": "두까비",
       "zh": "藍蟾蜍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tympole"
   },
   {
@@ -7691,7 +7710,7 @@
       "kr": "두빅굴",
       "zh": "蟾蜍王"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tympole"
   },
   {
@@ -7704,7 +7723,7 @@
       "kr": "던지미",
       "zh": "投摔鬼"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Throh"
   },
   {
@@ -7717,7 +7736,7 @@
       "kr": "타격귀",
       "zh": "打擊鬼"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Sawk"
   },
   {
@@ -7730,7 +7749,7 @@
       "kr": "두르보",
       "zh": "蟲寶包"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Sewaddle"
   },
   {
@@ -7743,7 +7762,7 @@
       "kr": "두르쿤",
       "zh": "寶包繭"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Sewaddle"
   },
   {
@@ -7756,7 +7775,7 @@
       "kr": "모아머",
       "zh": "保母蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Sewaddle"
   },
   {
@@ -7769,7 +7788,7 @@
       "kr": "마디네",
       "zh": "百足蜈蚣"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Venipede"
   },
   {
@@ -7782,7 +7801,7 @@
       "kr": "휠구",
       "zh": "車輪毬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Venipede"
   },
   {
@@ -7795,7 +7814,7 @@
       "kr": "펜드라",
       "zh": "蜈蚣王"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Venipede"
   },
   {
@@ -7808,7 +7827,7 @@
       "kr": "소미안",
       "zh": "木棉球"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Cottonee"
   },
   {
@@ -7821,7 +7840,7 @@
       "kr": "엘풍",
       "zh": "風妖精"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Cottonee"
   },
   {
@@ -7834,7 +7853,7 @@
       "kr": "치릴리",
       "zh": "百合根娃娃"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Petilil"
   },
   {
@@ -7847,7 +7866,7 @@
       "kr": "드레디어",
       "zh": "裙兒小姐"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Petilil"
   },
   {
@@ -7860,7 +7879,7 @@
       "kr": "배쓰나이",
       "zh": "野蠻鱸魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Basculin"
   },
   {
@@ -7873,7 +7892,7 @@
       "kr": "깜눈크",
       "zh": "黑眼鱷"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Sandile"
   },
   {
@@ -7886,7 +7905,7 @@
       "kr": "악비르",
       "zh": "混混鱷"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Sandile"
   },
   {
@@ -7899,7 +7918,7 @@
       "kr": "악비아르",
       "zh": "流氓鱷"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Sandile"
   },
   {
@@ -7912,7 +7931,7 @@
       "kr": "달막화",
       "zh": "火紅不倒翁"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Darumaka"
   },
   {
@@ -7925,7 +7944,7 @@
       "kr": "불비달마",
       "zh": "達摩狒狒"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Darumaka"
   },
   {
@@ -7938,7 +7957,7 @@
       "kr": "마라카치",
       "zh": "沙鈴仙人掌"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Maractus"
   },
   {
@@ -7951,7 +7970,7 @@
       "kr": "돌살이",
       "zh": "石居蟹"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Dwebble"
   },
   {
@@ -7964,7 +7983,7 @@
       "kr": "암팰리스",
       "zh": "岩殿居蟹"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Dwebble"
   },
   {
@@ -7977,7 +7996,7 @@
       "kr": "곤율랭",
       "zh": "滑滑小子"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Scraggy"
   },
   {
@@ -7990,7 +8009,7 @@
       "kr": "곤율거니",
       "zh": "頭巾混混"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Scraggy"
   },
   {
@@ -8003,7 +8022,7 @@
       "kr": "심보러",
       "zh": "象徵鳥"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Sigilyph"
   },
   {
@@ -8016,7 +8035,7 @@
       "kr": "데스마스",
       "zh": "哭哭面具"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Yamask"
   },
   {
@@ -8029,7 +8048,7 @@
       "kr": "데스니칸",
       "zh": "死神棺"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Yamask"
   },
   {
@@ -8042,7 +8061,7 @@
       "kr": "프로토가",
       "zh": "原蓋海龜"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tirtouga"
   },
   {
@@ -8055,7 +8074,7 @@
       "kr": "늑골라",
       "zh": "肋骨海龜"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tirtouga"
   },
   {
@@ -8068,7 +8087,7 @@
       "kr": "아켄",
       "zh": "始祖小鳥"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Archen"
   },
   {
@@ -8081,7 +8100,7 @@
       "kr": "아케오스",
       "zh": "始祖大鳥"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Archen"
   },
   {
@@ -8094,7 +8113,7 @@
       "kr": "깨봉이",
       "zh": "破破袋"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Trubbish"
   },
   {
@@ -8107,7 +8126,7 @@
       "kr": "더스트나",
       "zh": "灰塵山"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Trubbish"
   },
   {
@@ -8120,7 +8139,7 @@
       "kr": "조로아",
       "zh": "索羅亞"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Zorua"
   },
   {
@@ -8133,7 +8152,7 @@
       "kr": "조로아크",
       "zh": "索羅亞克"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Zorua"
   },
   {
@@ -8146,7 +8165,7 @@
       "kr": "치라미",
       "zh": "泡沫栗鼠"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Minccino"
   },
   {
@@ -8159,7 +8178,7 @@
       "kr": "치라치노",
       "zh": "奇諾栗鼠"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Minccino"
   },
   {
@@ -8172,7 +8191,7 @@
       "kr": "고디탱",
       "zh": "哥德寶寶"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Gothita"
   },
   {
@@ -8185,7 +8204,7 @@
       "kr": "고디보미",
       "zh": "哥德小童"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Gothita"
   },
   {
@@ -8198,7 +8217,7 @@
       "kr": "고디모아젤",
       "zh": "哥德小姐"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Gothita"
   },
   {
@@ -8211,7 +8230,7 @@
       "kr": "유니란",
       "zh": "單卵細胞球"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Solosis"
   },
   {
@@ -8224,7 +8243,7 @@
       "kr": "듀란",
       "zh": "雙卵細胞球"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Solosis"
   },
   {
@@ -8237,7 +8256,7 @@
       "kr": "란쿨루스",
       "zh": "人造細胞卵"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Solosis"
   },
   {
@@ -8250,7 +8269,7 @@
       "kr": "꼬지보리",
       "zh": "鴨寶寶"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Ducklett"
   },
   {
@@ -8263,7 +8282,7 @@
       "kr": "스완나",
       "zh": "舞天鵝"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Ducklett"
   },
   {
@@ -8276,7 +8295,7 @@
       "kr": "바닐프티",
       "zh": "迷你冰"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Vanillite"
   },
   {
@@ -8289,7 +8308,7 @@
       "kr": "바닐리치",
       "zh": "多多冰"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Vanillite"
   },
   {
@@ -8302,7 +8321,7 @@
       "kr": "배바닐라",
       "zh": "雙倍多多冰"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Vanillite"
   },
   {
@@ -8315,7 +8334,7 @@
       "kr": "사철록",
       "zh": "四季鹿"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Deerling"
   },
   {
@@ -8328,7 +8347,7 @@
       "kr": "바라철록",
       "zh": "萌芽鹿"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Deerling"
   },
   {
@@ -8341,7 +8360,7 @@
       "kr": "에몽가",
       "zh": "電飛鼠"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Emolga"
   },
   {
@@ -8354,7 +8373,7 @@
       "kr": "딱정곤",
       "zh": "蓋蓋蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Karrablast"
   },
   {
@@ -8367,7 +8386,7 @@
       "kr": "슈바르고",
       "zh": "騎士蝸牛"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Karrablast"
   },
   {
@@ -8380,7 +8399,7 @@
       "kr": "깜놀버슬",
       "zh": "哎呀球菇"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Foongus"
   },
   {
@@ -8393,7 +8412,7 @@
       "kr": "뽀록나",
       "zh": "敗露球菇"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Foongus"
   },
   {
@@ -8406,7 +8425,7 @@
       "kr": "탱그릴",
       "zh": "輕飄飄"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Frillish"
   },
   {
@@ -8419,7 +8438,7 @@
       "kr": "탱탱겔",
       "zh": "胖嘟嘟"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Frillish"
   },
   {
@@ -8432,7 +8451,7 @@
       "kr": "맘복치",
       "zh": "保母曼波"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Alomomola"
   },
   {
@@ -8445,7 +8464,7 @@
       "kr": "피쪼옥",
       "zh": "電電蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Joltik"
   },
   {
@@ -8458,7 +8477,7 @@
       "kr": "전툴라",
       "zh": "電蜘蛛"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Joltik"
   },
   {
@@ -8471,7 +8490,7 @@
       "kr": "철시드",
       "zh": "種子鐵球"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Ferroseed"
   },
   {
@@ -8484,7 +8503,7 @@
       "kr": "너트령",
       "zh": "堅果啞鈴"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Ferroseed"
   },
   {
@@ -8497,7 +8516,7 @@
       "kr": "기어르",
       "zh": "齒輪兒"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Klink"
   },
   {
@@ -8510,7 +8529,7 @@
       "kr": "기기어르",
       "zh": "齒輪組"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Klink"
   },
   {
@@ -8523,7 +8542,7 @@
       "kr": "기기기어르",
       "zh": "齒輪怪"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Klink"
   },
   {
@@ -8536,7 +8555,7 @@
       "kr": "저리어",
       "zh": "麻麻小魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tynamo"
   },
   {
@@ -8549,7 +8568,7 @@
       "kr": "저리릴",
       "zh": "麻麻鰻"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tynamo"
   },
   {
@@ -8562,7 +8581,7 @@
       "kr": "저리더프",
       "zh": "麻麻鰻魚王"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tynamo"
   },
   {
@@ -8575,7 +8594,7 @@
       "kr": "리그레",
       "zh": "小灰怪"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Elgyem"
   },
   {
@@ -8588,7 +8607,7 @@
       "kr": "벰크",
       "zh": "大宇怪"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Beheeyem"
   },
   {
@@ -8601,7 +8620,7 @@
       "kr": "불켜미",
       "zh": "燭光靈"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Litwick"
   },
   {
@@ -8614,7 +8633,7 @@
       "kr": "램프라",
       "zh": "燈火幽靈"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Litwick"
   },
   {
@@ -8627,7 +8646,7 @@
       "kr": "샹델라",
       "zh": "水晶燈火靈"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Litwick"
   },
   {
@@ -8640,7 +8659,7 @@
       "kr": "터검니",
       "zh": "牙牙"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Axew"
   },
   {
@@ -8653,7 +8672,7 @@
       "kr": "액슨도",
       "zh": "斧牙龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Axew"
   },
   {
@@ -8666,7 +8685,7 @@
       "kr": "액스라이즈",
       "zh": "雙斧戰龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Axew"
   },
   {
@@ -8679,7 +8698,7 @@
       "kr": "코고미",
       "zh": "噴嚏熊"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Cubchoo"
   },
   {
@@ -8692,7 +8711,7 @@
       "kr": "툰베어",
       "zh": "凍原熊"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Cubchoo"
   },
   {
@@ -8705,7 +8724,7 @@
       "kr": "프리지오",
       "zh": "幾何雪花"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Cryogonal"
   },
   {
@@ -8718,7 +8737,7 @@
       "kr": "쪼마리",
       "zh": "小嘴蝸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Shelmet"
   },
   {
@@ -8731,7 +8750,7 @@
       "kr": "어지리더",
       "zh": "敏捷蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Shelmet"
   },
   {
@@ -8744,7 +8763,7 @@
       "kr": "메더",
       "zh": "泥巴魚"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Stunfisk"
   },
   {
@@ -8757,7 +8776,7 @@
       "kr": "비조푸",
       "zh": "功夫鼬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Mienfoo"
   },
   {
@@ -8770,7 +8789,7 @@
       "kr": "비조도",
       "zh": "師父鼬"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Mienfoo"
   },
   {
@@ -8783,7 +8802,7 @@
       "kr": "크리만",
       "zh": "赤面龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Druddigon"
   },
   {
@@ -8796,7 +8815,7 @@
       "kr": "골비람",
       "zh": "泥偶小人"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Golett"
   },
   {
@@ -8809,7 +8828,7 @@
       "kr": "골루그",
       "zh": "泥偶巨人"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Golett"
   },
   {
@@ -8822,7 +8841,7 @@
       "kr": "자망칼",
       "zh": "駒刀小兵"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Pawniard"
   },
   {
@@ -8835,7 +8854,7 @@
       "kr": "절각참",
       "zh": "劈斬司令"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Pawniard"
   },
   {
@@ -8848,7 +8867,7 @@
       "kr": "버프론",
       "zh": "爆炸頭水牛"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Bouffalant"
   },
   {
@@ -8861,7 +8880,7 @@
       "kr": "수리둥보",
       "zh": "毛頭小鷹"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Rufflet"
   },
   {
@@ -8874,7 +8893,7 @@
       "kr": "워글",
       "zh": "勇士雄鷹"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Rufflet"
   },
   {
@@ -8887,7 +8906,7 @@
       "kr": "벌차이",
       "zh": "禿鷹丫頭"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Vullaby"
   },
   {
@@ -8900,7 +8919,7 @@
       "kr": "버랜지나",
       "zh": "禿鷹娜"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Vullaby"
   },
   {
@@ -8913,7 +8932,7 @@
       "kr": "앤티골",
       "zh": "熔蟻獸"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Heatmor"
   },
   {
@@ -8926,7 +8945,7 @@
       "kr": "아이앤트",
       "zh": "鐵蟻"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Durant"
   },
   {
@@ -8939,7 +8958,7 @@
       "kr": "모노두",
       "zh": "單首龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Deino"
   },
   {
@@ -8952,7 +8971,7 @@
       "kr": "디헤드",
       "zh": "雙首暴龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Deino"
   },
   {
@@ -8965,7 +8984,7 @@
       "kr": "삼삼드래",
       "zh": "三首惡龍"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Deino"
   },
   {
@@ -8978,7 +8997,7 @@
       "kr": "활화르바",
       "zh": "燃燒蟲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Larvesta"
   },
   {
@@ -8991,7 +9010,7 @@
       "kr": "불카모스",
       "zh": "火神蛾"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Larvesta"
   },
   {
@@ -9004,7 +9023,7 @@
       "kr": "코바르온",
       "zh": "勾帕路翁"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Cobalion"
   },
   {
@@ -9017,7 +9036,7 @@
       "kr": "테라키온",
       "zh": "代拉基翁"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Terrakion"
   },
   {
@@ -9030,7 +9049,7 @@
       "kr": "비리디온",
       "zh": "畢力吉翁"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Virizion"
   },
   {
@@ -9043,7 +9062,7 @@
       "kr": "토네로스",
       "zh": "龍捲雲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Tornadus"
   },
   {
@@ -9056,7 +9075,7 @@
       "kr": "볼트로스",
       "zh": "雷電雲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Thundurus"
   },
   {
@@ -9069,7 +9088,7 @@
       "kr": "레시라무",
       "zh": "萊希拉姆"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Reshiram"
   },
   {
@@ -9082,7 +9101,7 @@
       "kr": "제크로무",
       "zh": "捷克羅姆"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Zekrom"
   },
   {
@@ -9095,7 +9114,7 @@
       "kr": "랜드로스",
       "zh": "土地雲"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Landorus"
   },
   {
@@ -9108,7 +9127,7 @@
       "kr": "큐레무",
       "zh": "酋雷姆"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Kyurem"
   },
   {
@@ -9121,7 +9140,7 @@
       "kr": "케르디오",
       "zh": "凱路迪歐"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Keldeo"
   },
   {
@@ -9134,7 +9153,7 @@
       "kr": "메로엣타",
       "zh": "美洛耶塔"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Meloetta"
   },
   {
@@ -9147,7 +9166,7 @@
       "kr": "게노세크트",
       "zh": "蓋諾賽克特"
     },
-    "shiny_released": false,
+    "shadow_released": false,
     "family": "Genesect"
   },
   {
@@ -9160,7 +9179,7 @@
       "kr": "멜탄",
       "zh": "美錄坦"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Meltan"
   },
   {
@@ -9173,7 +9192,7 @@
       "kr": "멜메탈",
       "zh": "美錄梅塔"
     },
-    "shiny_released": true,
+    "shadow_released": false,
     "family": "Meltan"
   }
 ]
