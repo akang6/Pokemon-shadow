@@ -55,7 +55,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pms.json",
-    "revision": "a387f056047d111d1963b1d8a7c82ef5"
+    "revision": "9e31b183d017a2113209ff7666abcc73"
   },
   {
     "url": "pokemon_icon_000.png",
